@@ -13,18 +13,20 @@ DRIVER_LOCATION = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'brow
 CHROME_DRIVER_LOCATION = os.path.join(os.path.join(DRIVER_LOCATION, 'chromedriver_win32'), 'chromedriver.exe')
 EDGE_DRIVER_LOCATION = os.path.join(os.path.join(DRIVER_LOCATION, 'edgedriver_win64'), 'msedgedriver.exe')
 
-print(EDGE_DRIVER_LOCATION)
+# chrome_options = webdriver.ChromeOptions()
+# chrome_options.add_argument('--start-maximized')
+# driver = webdriver.Chrome(executable_path=str(CHROME_DRIVER_LOCATION), options=chrome_options)
 
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--start-maximized')
+edge_service = Service(EDGE_DRIVER_LOCATION)
 
 edge_options = webdriver.EdgeOptions()
 edge_options.add_argument('--start-maximized')
+edge_options.use_chromium = True
 
-ser = Service(EDGE_DRIVER_LOCATION)
+driver = webdriver.Edge(service=edge_service, options=edge_options)
 
-print(ser)
-# driver = webdriver.Chrome(executable_path=str(CHROME_DRIVER_LOCATION), options=chrome_options)
-driver = webdriver.Edge(ser, edge_options)
-print(driver)
-# driver.get('http://www.baidu.com')
+driver.get('https://www.baidu.com')
+
+# search_text = driver.find_element_by_id('kw')
+# search_text.send_keys('selenium')
+# search_text.submit()
