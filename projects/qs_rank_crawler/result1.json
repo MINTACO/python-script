@@ -1,0 +1,702 @@
+[
+    {
+        "rank": 0,
+        "name": "Harvard University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/harvard-university",
+        "location": "Cambridge,United States"
+    },
+    {
+        "rank": 1,
+        "name": "Stanford University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/stanford-university",
+        "location": "Stanford,United States"
+    },
+    {
+        "rank": 2,
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/massachusetts-institute-technology-mit",
+        "location": "Cambridge,United States"
+    },
+    {
+        "rank": 4,
+        "name": "University of California, Berkeley (UCB)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-berkeley-ucb",
+        "location": "Berkeley,United States"
+    },
+    {
+        "rank": 5,
+        "name": "University of California, Los Angeles (UCLA)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-los-angeles-ucla",
+        "location": "Los Angeles,United States"
+    },
+    {
+        "rank": 6,
+        "name": "Yale University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/yale-university",
+        "location": "New Haven,United States"
+    },
+    {
+        "rank": 7,
+        "name": "Columbia University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/columbia-university",
+        "location": "New York City,United States"
+    },
+    {
+        "rank": 8,
+        "name": "Princeton University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/princeton-university",
+        "location": "Princeton,United States"
+    },
+    {
+        "rank": 10,
+        "name": "New York University (NYU)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/new-york-university-nyu",
+        "location": "New York City,United States"
+    },
+    {
+        "rank": 11,
+        "name": "University of Pennsylvania",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-pennsylvania",
+        "location": "Philadelphia,United States"
+    },
+    {
+        "rank": 12,
+        "name": "University of Chicago",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-chicago",
+        "location": "Chicago,United States"
+    },
+    {
+        "rank": 13,
+        "name": "Cornell University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/cornell-university",
+        "location": "Ithaca,United States"
+    },
+    {
+        "rank": 14,
+        "name": "Duke University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/duke-university",
+        "location": "Durham,United States"
+    },
+    {
+        "rank": 15,
+        "name": "Johns Hopkins University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/johns-hopkins-university",
+        "location": "Baltimore,United States"
+    },
+    {
+        "rank": 16,
+        "name": "University of Southern California",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-southern-california",
+        "location": "Los Angeles,United States"
+    },
+    {
+        "rank": 17,
+        "name": "Northwestern University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/northwestern-university",
+        "location": "Evanston,United States"
+    },
+    {
+        "rank": 18,
+        "name": "Carnegie Mellon University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/carnegie-mellon-university",
+        "location": "Pittsburgh,United States"
+    },
+    {
+        "rank": 19,
+        "name": "University of Michigan-Ann Arbor",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-michigan-ann-arbor",
+        "location": "Ann Arbor,United States"
+    },
+    {
+        "rank": 20,
+        "name": "Brown University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/brown-university",
+        "location": "Providence,United States"
+    },
+    {
+        "rank": 21,
+        "name": "Boston University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/boston-university",
+        "location": "Boston,United States"
+    },
+    {
+        "rank": 22,
+        "name": "California Institute of Technology (Caltech)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/california-institute-technology-caltech",
+        "location": "Pasadena,United States"
+    },
+    {
+        "rank": 23,
+        "name": "Emory University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/emory-university",
+        "location": "Atlanta,United States"
+    },
+    {
+        "rank": 24,
+        "name": "Rice University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/rice-university",
+        "location": "Houston,United States"
+    },
+    {
+        "rank": 25,
+        "name": "University of Washington",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-washington",
+        "location": "Seattle,United States"
+    },
+    {
+        "rank": 26,
+        "name": "Washington University in St. Louis",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/washington-university-st-louis",
+        "location": "St. Louis,United States"
+    },
+    {
+        "rank": 27,
+        "name": "Georgetown University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/georgetown-university",
+        "location": "Washington D.C.,United States"
+    },
+    {
+        "rank": 28,
+        "name": "University of California, San Diego (UCSD)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-san-diego-ucsd",
+        "location": "San Diego,United States"
+    },
+    {
+        "rank": 29,
+        "name": "Vanderbilt University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/vanderbilt-university",
+        "location": "Nashville,United States"
+    },
+    {
+        "rank": 30,
+        "name": "University of Texas at Austin",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-texas-austin",
+        "location": "Austin,United States"
+    },
+    {
+        "rank": 31,
+        "name": "University of Illinois at Urbana-Champaign",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-illinois-urbana-champaign",
+        "location": "Champaign,United States"
+    },
+    {
+        "rank": 32,
+        "name": "University of Rochester",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-rochester",
+        "location": "Rochester,United States"
+    },
+    {
+        "rank": 33,
+        "name": "Dartmouth College",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/dartmouth-college",
+        "location": "Hanover,United States"
+    },
+    {
+        "rank": 34,
+        "name": "University of North Carolina, Chapel Hill",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-north-carolina-chapel-hill",
+        "location": "Chapel Hill,United States"
+    },
+    {
+        "rank": 35,
+        "name": "University of California, Davis",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-davis",
+        "location": "Davis,United States"
+    },
+    {
+        "rank": 36,
+        "name": "University of Florida",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-florida",
+        "location": "Gainesville,United States"
+    },
+    {
+        "rank": 37,
+        "name": "Tufts University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/tufts-university",
+        "location": "Medford,United States"
+    },
+    {
+        "rank": 38,
+        "name": "University of Illinois at Chicago (UIC)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-illinois-chicago-uic",
+        "location": "Chicago,United States"
+    },
+    {
+        "rank": 39,
+        "name": "Georgia Institute of Technology",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/georgia-institute-technology",
+        "location": "Atlanta,United States"
+    },
+    {
+        "rank": 40,
+        "name": "Stony Brook University, State University of New York",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/stony-brook-university-state-university-new-york",
+        "location": "Stony Brook,United States"
+    },
+    {
+        "rank": 41,
+        "name": "University of Virginia",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-virginia",
+        "location": "Charlottesville,United States"
+    },
+    {
+        "rank": 42,
+        "name": "Case Western Reserve University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/case-western-reserve-university",
+        "location": "Cleveland,United States"
+    },
+    {
+        "rank": 43,
+        "name": "Rutgers University–New Brunswick",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/rutgers-university-new-brunswick",
+        "location": "New Brunswick,United States"
+    },
+    {
+        "rank": 44,
+        "name": "University of California, Santa Barbara (UCSB)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-santa-barbara-ucsb",
+        "location": "Santa Barbara,United States"
+    },
+    {
+        "rank": 45,
+        "name": "Pennsylvania State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/pennsylvania-state-university",
+        "location": "University Park,United States"
+    },
+    {
+        "rank": 46,
+        "name": "George Washington University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/george-washington-university",
+        "location": "Ashburn,United States"
+    },
+    {
+        "rank": 47,
+        "name": "University of California, Irvine",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-irvine",
+        "location": "Irvine,United States"
+    },
+    {
+        "rank": 48,
+        "name": "University of Notre Dame",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-notre-dame",
+        "location": "Notre Dame,United States"
+    },
+    {
+        "rank": 49,
+        "name": "University of Miami",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-miami",
+        "location": "Miami,United States"
+    },
+    {
+        "rank": 50,
+        "name": "Northeastern University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/northeastern-university",
+        "location": "Boston,United States"
+    },
+    {
+        "rank": 51,
+        "name": "The Ohio State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/ohio-state-university",
+        "location": "Columbus,United States"
+    },
+    {
+        "rank": 52,
+        "name": "University at Buffalo SUNY",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-buffalo-suny",
+        "location": "Buffalo,United States"
+    },
+    {
+        "rank": 53,
+        "name": "University of Maryland, College Park",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-maryland-college-park",
+        "location": "College Park,United States"
+    },
+    {
+        "rank": 54,
+        "name": "Purdue University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/purdue-university",
+        "location": "West Lafayette,United States"
+    },
+    {
+        "rank": 55,
+        "name": "University of Minnesota Twin Cities",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-minnesota-twin-cities",
+        "location": "Minneapolis,United States"
+    },
+    {
+        "rank": 56,
+        "name": "Boston College",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/boston-college",
+        "location": "Newton,United States"
+    },
+    {
+        "rank": 57,
+        "name": "Michigan State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/michigan-state-university",
+        "location": "East Lansing,United States"
+    },
+    {
+        "rank": 58,
+        "name": "University of Massachusetts Amherst",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-massachusetts-amherst",
+        "location": "Amherst,United States"
+    },
+    {
+        "rank": 59,
+        "name": "University of Wisconsin-Madison",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-wisconsin-madison",
+        "location": "Madison,United States"
+    },
+    {
+        "rank": 60,
+        "name": "Syracuse University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/syracuse-university",
+        "location": "Syracuse,United States"
+    },
+    {
+        "rank": 61,
+        "name": "Lehigh University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/lehigh-university",
+        "location": "Bethlehem,United States"
+    },
+    {
+        "rank": 62,
+        "name": "University of Pittsburgh",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-pittsburgh",
+        "location": "Pittsburgh,United States"
+    },
+    {
+        "rank": 63,
+        "name": "Arizona State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/arizona-state-university",
+        "location": "Phoenix,United States"
+    },
+    {
+        "rank": 64,
+        "name": "Brandeis University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/brandeis-university",
+        "location": "Waltham,United States"
+    },
+    {
+        "rank": 65,
+        "name": "Temple University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/temple-university",
+        "location": "Philadelphia,United States"
+    },
+    {
+        "rank": 66,
+        "name": "Texas A&M University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/texas-am-university",
+        "location": "College Station,United States"
+    },
+    {
+        "rank": 67,
+        "name": "The University of Arizona",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-arizona",
+        "location": "Tucson,United States"
+    },
+    {
+        "rank": 68,
+        "name": "University of Houston",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-houston",
+        "location": "Houston,United States"
+    },
+    {
+        "rank": 69,
+        "name": "Binghamton University SUNY",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/binghamton-university-suny",
+        "location": "Binghamton,United States"
+    },
+    {
+        "rank": 70,
+        "name": "Drexel University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/drexel-university",
+        "location": "Philadelphia,United States"
+    },
+    {
+        "rank": 71,
+        "name": "North Carolina State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/north-carolina-state-university",
+        "location": "Raleigh,United States"
+    },
+    {
+        "rank": 72,
+        "name": "Rensselaer Polytechnic Institute",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/rensselaer-polytechnic-institute",
+        "location": "Troy,United States"
+    },
+    {
+        "rank": 73,
+        "name": "University of Connecticut",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-connecticut",
+        "location": "Storrs,United States"
+    },
+    {
+        "rank": 74,
+        "name": "The University of Georgia",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-georgia",
+        "location": "Athens,United States"
+    },
+    {
+        "rank": 75,
+        "name": "Virginia Polytechnic Institute and State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/virginia-polytechnic-institute-state-university",
+        "location": "Blacksburg,United States"
+    },
+    {
+        "rank": 76,
+        "name": "University of New Mexico",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-new-mexico",
+        "location": "Albuquerque,United States"
+    },
+    {
+        "rank": 77,
+        "name": "Indiana University Bloomington",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/indiana-university-bloomington",
+        "location": "Bloomington,United States"
+    },
+    {
+        "rank": 78,
+        "name": "Tulane University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/tulane-university",
+        "location": "New Orleans,United States"
+    },
+    {
+        "rank": 79,
+        "name": "University of Colorado Boulder",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-colorado-boulder",
+        "location": "Boulder,United States"
+    },
+    {
+        "rank": 80,
+        "name": "Florida State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/florida-state-university",
+        "location": "Tallahassee,United States"
+    },
+    {
+        "rank": 81,
+        "name": "University of South Florida",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-south-florida",
+        "location": "Tampa,United States"
+    },
+    {
+        "rank": 82,
+        "name": "Illinois Institute of Technology",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/illinois-institute-technology",
+        "location": "Chicago,United States"
+    },
+    {
+        "rank": 83,
+        "name": "University of California, Riverside",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-riverside",
+        "location": "Riverside,United States"
+    },
+    {
+        "rank": 84,
+        "name": "University of California, Santa Cruz",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-california-santa-cruz",
+        "location": "Santa Cruz,United States"
+    },
+    {
+        "rank": 85,
+        "name": "Howard University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/howard-university",
+        "location": "Washington D.C.,United States"
+    },
+    {
+        "rank": 86,
+        "name": "University of Texas Dallas",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-texas-dallas",
+        "location": "Richardson,United States"
+    },
+    {
+        "rank": 87,
+        "name": "Santa Clara University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/santa-clara-university",
+        "location": "Santa Clara,United States"
+    },
+    {
+        "rank": 88,
+        "name": "Wake Forest University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/wake-forest-university",
+        "location": "Winston-Salem,United States"
+    },
+    {
+        "rank": 89,
+        "name": "University of Maryland, Baltimore County",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-maryland-baltimore-county",
+        "location": "Baltimore,United States"
+    },
+    {
+        "rank": 90,
+        "name": "University of Utah",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-utah",
+        "location": "Salt Lake City,United States"
+    },
+    {
+        "rank": 91,
+        "name": "George Mason University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/george-mason-university",
+        "location": "Fairfax,United States"
+    },
+    {
+        "rank": 92,
+        "name": "New Jersey Institute of Technology (NJIT)",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/new-jersey-institute-technology-njit",
+        "location": "Newark,United States"
+    },
+    {
+        "rank": 93,
+        "name": "University of Massachusetts Boston",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-massachusetts-boston",
+        "location": "Boston,United States"
+    },
+    {
+        "rank": 94,
+        "name": "University of Kansas",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-kansas",
+        "location": "Lawrence,United States"
+    },
+    {
+        "rank": 95,
+        "name": "University at Albany SUNY",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-albany-suny",
+        "location": "Albany,United States"
+    },
+    {
+        "rank": 96,
+        "name": "Oregon State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/oregon-state-university",
+        "location": "Corvallis,United States"
+    },
+    {
+        "rank": 97,
+        "name": "University of Delaware",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-delaware",
+        "location": "Newark,United States"
+    },
+    {
+        "rank": 98,
+        "name": "University of the Pacific",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-pacific",
+        "location": "Stockton,United States"
+    },
+    {
+        "rank": 99,
+        "name": "Rutgers University–Newark",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/rutgers-university-newark",
+        "location": "Newark,United States"
+    },
+    {
+        "rank": 100,
+        "name": "University of Hawaiʻi at Mānoa",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/university-hawaii-manoa",
+        "location": "Honolulu,United States"
+    },
+    {
+        "rank": 101,
+        "name": "San Diego State University",
+        "overall_score": "",
+        "website": "https://www.topuniversities.com/universities/san-diego-state-university",
+        "location": "San Diego ,United States"
+    }
+]
