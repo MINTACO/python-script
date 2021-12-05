@@ -23,7 +23,7 @@ json1 = json.load(f)
 # print(json1[:3])
 num = 1
 #
-result = [1, 2, 3]
+result = []
 
 for obj in json1:
     try:
@@ -39,6 +39,7 @@ for obj in json1:
         content_lis = driver.find_elements(By.XPATH,
                                            '/html/body/div[1]/div/div/div[1]/div[2]/main/section/div/section/div/div/article/div/div[1]/div/div[2]/div/div/div/ul/*')
 
+        description = driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[1]/div[2]/main/section/div/section/div/div/article/div/div[1]/div/div[4]/div/div/div[3]/div[2]/div[1]/div[1]/p[1]').text
         abouts = []
         for li in content_lis:
             content = li.find_element(By.TAG_NAME, 'span').text
@@ -59,6 +60,7 @@ for obj in json1:
         temp['img_url'] = img_url
         temp['location'] = location
         temp['abouts'] = abouts
+        temp['description'] = description
 
         result.append(temp)
     except:
