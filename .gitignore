@@ -131,3 +131,5 @@ dmypy.json
 .pyre/
 
 browser_driver/
+
+projects/qs_rank_crawler/university_pics/*

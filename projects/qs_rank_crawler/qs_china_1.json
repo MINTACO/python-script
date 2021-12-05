@@ -1,0 +1,602 @@
+[
+    {
+        "rank": "1",
+        "name": "麻省理工学院",
+        "website": "https://www.qschina.cn/universities/massachusetts-institute-technology-mit",
+        "nation": "United States"
+    },
+    {
+        "rank": "2",
+        "name": "牛津大学",
+        "website": "https://www.qschina.cn/universities/university-oxford",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "=3",
+        "name": "斯坦福大学",
+        "website": "https://www.qschina.cn/universities/stanford-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "=3",
+        "name": "剑桥大学",
+        "website": "https://www.qschina.cn/universities/university-cambridge",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "5",
+        "name": "哈佛大学",
+        "website": "https://www.qschina.cn/universities/harvard-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "6",
+        "name": "加州理工大学（Caltech)",
+        "website": "https://www.qschina.cn/universities/california-institute-technology-caltech",
+        "nation": "United States"
+    },
+    {
+        "rank": "7",
+        "name": "帝国理工学院",
+        "website": "https://www.qschina.cn/universities/imperial-college-london",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "=8",
+        "name": "苏黎世联邦理工大学（瑞士联邦理工学院）",
+        "website": "https://www.qschina.cn/universities/eth-zurich-swiss-federal-institute-technology",
+        "nation": "Switzerland"
+    },
+    {
+        "rank": "=8",
+        "name": "伦敦大学学院",
+        "website": "https://www.qschina.cn/universities/ucl",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "10",
+        "name": "芝加哥大学",
+        "website": "https://www.qschina.cn/universities/university-chicago",
+        "nation": "United States"
+    },
+    {
+        "rank": "11",
+        "name": "新加坡国立大学",
+        "website": "https://www.qschina.cn/universities/national-university-singapore-nus",
+        "nation": "Singapore"
+    },
+    {
+        "rank": "12",
+        "name": "南洋理工大学",
+        "website": "https://www.qschina.cn/universities/nanyang-technological-university-singapore-ntu",
+        "nation": "Singapore"
+    },
+    {
+        "rank": "13",
+        "name": "宾夕法尼亚大学",
+        "website": "https://www.qschina.cn/universities/university-pennsylvania",
+        "nation": "United States"
+    },
+    {
+        "rank": "=14",
+        "name": "洛桑联邦理工学院（EPFL)",
+        "website": "https://www.qschina.cn/universities/epfl",
+        "nation": "Switzerland"
+    },
+    {
+        "rank": "=14",
+        "name": "耶鲁大学",
+        "website": "https://www.qschina.cn/universities/yale-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "16",
+        "name": "爱丁堡大学",
+        "website": "https://www.qschina.cn/universities/university-edinburgh",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "17",
+        "name": "清华大学",
+        "website": "https://www.qschina.cn/universities/tsinghua-university",
+        "nation": "China (Mainland)"
+    },
+    {
+        "rank": "18",
+        "name": "北京大学",
+        "website": "https://www.qschina.cn/universities/peking-university",
+        "nation": "China (Mainland)"
+    },
+    {
+        "rank": "19",
+        "name": "哥伦比亚大学",
+        "website": "https://www.qschina.cn/universities/columbia-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "20",
+        "name": "普林斯顿大学",
+        "website": "https://www.qschina.cn/universities/princeton-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "21",
+        "name": "康奈尔大学",
+        "website": "https://www.qschina.cn/universities/cornell-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "22",
+        "name": "香港大学（HKU）",
+        "website": "https://www.qschina.cn/universities/university-hong-kong",
+        "nation": "Hong Kong SAR"
+    },
+    {
+        "rank": "=23",
+        "name": "东京大学",
+        "website": "https://www.qschina.cn/universities/university-tokyo",
+        "nation": "Japan"
+    },
+    {
+        "rank": "=23",
+        "name": "密歇根大学",
+        "website": "https://www.qschina.cn/universities/university-michigan-ann-arbor",
+        "nation": "United States"
+    },
+    {
+        "rank": "25",
+        "name": "约翰霍普金斯大学",
+        "website": "https://www.qschina.cn/universities/johns-hopkins-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "26",
+        "name": "多伦多大学",
+        "website": "https://www.qschina.cn/universities/university-toronto",
+        "nation": "Canada"
+    },
+    {
+        "rank": "=27",
+        "name": "麦吉尔大学",
+        "website": "https://www.qschina.cn/universities/mcgill-university",
+        "nation": "Canada"
+    },
+    {
+        "rank": "=27",
+        "name": "澳大利亚国立大学（ANU)",
+        "website": "https://www.qschina.cn/universities/australian-national-university",
+        "nation": "Australia"
+    },
+    {
+        "rank": "=27",
+        "name": "曼彻斯特大学",
+        "website": "https://www.qschina.cn/universities/university-manchester",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "30",
+        "name": "西北大学",
+        "website": "https://www.qschina.cn/universities/northwestern-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "31",
+        "name": "复旦大学",
+        "website": "https://www.qschina.cn/universities/fudan-university",
+        "nation": "China (Mainland)"
+    },
+    {
+        "rank": "32",
+        "name": "加州大学伯克利分校",
+        "website": "https://www.qschina.cn/universities/university-california-berkeley-ucb",
+        "nation": "United States"
+    },
+    {
+        "rank": "33",
+        "name": "京都大学",
+        "website": "https://www.qschina.cn/universities/kyoto-university",
+        "nation": "Japan"
+    },
+    {
+        "rank": "34",
+        "name": "香港科技大学（HKUST)",
+        "website": "https://www.qschina.cn/universities/hong-kong-university-science-technology",
+        "nation": "Hong Kong SAR"
+    },
+    {
+        "rank": "35",
+        "name": "伦敦国王学院",
+        "website": "https://www.qschina.cn/universities/kings-college-london",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "36",
+        "name": "首尔国立大学",
+        "website": "https://www.qschina.cn/universities/seoul-national-university",
+        "nation": "South Korea"
+    },
+    {
+        "rank": "37",
+        "name": "墨尔本大学",
+        "website": "https://www.qschina.cn/universities/university-melbourne",
+        "nation": "Australia"
+    },
+    {
+        "rank": "38",
+        "name": "悉尼大学",
+        "website": "https://www.qschina.cn/universities/university-sydney",
+        "nation": "Australia"
+    },
+    {
+        "rank": "39",
+        "name": "香港中文大学",
+        "website": "https://www.qschina.cn/universities/chinese-university-hong-kong-cuhk",
+        "nation": "Hong Kong SAR"
+    },
+    {
+        "rank": "40",
+        "name": "加州大学洛杉矶分校",
+        "website": "https://www.qschina.cn/universities/university-california-los-angeles-ucla",
+        "nation": "United States"
+    },
+    {
+        "rank": "41",
+        "name": "韩国科学技术研究所",
+        "website": "https://www.qschina.cn/universities/kaist-korea-advanced-institute-science-technology",
+        "nation": "South Korea"
+    },
+    {
+        "rank": "42",
+        "name": "纽约大学（NYU）",
+        "website": "https://www.qschina.cn/universities/new-york-university-nyu",
+        "nation": "United States"
+    },
+    {
+        "rank": "43",
+        "name": "新南威尔士大学（UNSW）",
+        "website": "https://www.qschina.cn/universities/university-new-south-wales-unsw-sydney",
+        "nation": "Australia"
+    },
+    {
+        "rank": "44",
+        "name": "巴黎科学艺术人文大学",
+        "website": "https://www.qschina.cn/universities/universite-psl",
+        "nation": "France"
+    },
+    {
+        "rank": "45",
+        "name": "浙江大学",
+        "website": "https://www.qschina.cn/universities/zhejiang-university",
+        "nation": "China (Mainland)"
+    },
+    {
+        "rank": "46",
+        "name": "不列颠哥伦比亚大学",
+        "website": "https://www.qschina.cn/universities/university-british-columbia",
+        "nation": "Canada"
+    },
+    {
+        "rank": "47",
+        "name": "昆士兰大学（UQ）",
+        "website": "https://www.qschina.cn/universities/university-queensland",
+        "nation": "Australia"
+    },
+    {
+        "rank": "48",
+        "name": "加州大学圣地亚哥分校",
+        "website": "https://www.qschina.cn/universities/university-california-san-diego-ucsd",
+        "nation": "United States"
+    },
+    {
+        "rank": "=49",
+        "name": "巴黎理工学院",
+        "website": "https://www.qschina.cn/universities/institut-polytechnique-de-paris",
+        "nation": "France"
+    },
+    {
+        "rank": "49",
+        "name": "伦敦经济政治学院",
+        "website": "https://www.qschina.cn/universities/london-school-economics-political-science-lse",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "=50",
+        "name": "上海交通大学",
+        "website": "https://www.qschina.cn/universities/shanghai-jiao-tong-university",
+        "nation": "China (Mainland)"
+    },
+    {
+        "rank": "=50",
+        "name": "慕尼黑工业大学",
+        "website": "https://www.qschina.cn/universities/technical-university-munich",
+        "nation": "Germany"
+    },
+    {
+        "rank": "52",
+        "name": "杜克大学",
+        "website": "https://www.qschina.cn/universities/duke-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "=53",
+        "name": "卡内基梅隆大学",
+        "website": "https://www.qschina.cn/universities/carnegie-mellon-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "=53",
+        "name": "香港城市大学",
+        "website": "https://www.qschina.cn/universities/city-university-hong-kong",
+        "nation": "Hong Kong SAR"
+    },
+    {
+        "rank": "55",
+        "name": "阿姆斯特丹大学",
+        "website": "https://www.qschina.cn/universities/university-amsterdam",
+        "nation": "Netherlands"
+    },
+    {
+        "rank": "56",
+        "name": "东京工业大学",
+        "website": "https://www.qschina.cn/universities/tokyo-institute-technology-tokyo-tech",
+        "nation": "Japan"
+    },
+    {
+        "rank": "57",
+        "name": "代尔夫特理工大学",
+        "website": "https://www.qschina.cn/universities/delft-university-technology",
+        "nation": "Netherlands"
+    },
+    {
+        "rank": "58",
+        "name": "蒙纳士大学",
+        "website": "https://www.qschina.cn/universities/monash-university",
+        "nation": "Australia"
+    },
+    {
+        "rank": "60",
+        "name": "布朗大学",
+        "website": "https://www.qschina.cn/universities/brown-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "61",
+        "name": "华威大学",
+        "website": "https://www.qschina.cn/universities/university-warwick",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "62",
+        "name": "布里斯托大学",
+        "website": "https://www.qschina.cn/universities/university-bristol",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "63",
+        "name": "鲁普莱希特-卡尔斯-海德堡大学",
+        "website": "https://www.qschina.cn/universities/ruprecht-karls-universitat-heidelberg",
+        "nation": "Germany"
+    },
+    {
+        "rank": "64",
+        "name": "路德维希 - 马克西米利安 - 慕尼黑大学",
+        "website": "https://www.qschina.cn/universities/ludwig-maximilians-universitat-munchen",
+        "nation": "Germany"
+    },
+    {
+        "rank": "65",
+        "name": "马来亚大学（UM）",
+        "website": "https://www.qschina.cn/universities/universiti-malaya-um",
+        "nation": "Malaysia"
+    },
+    {
+        "rank": "66",
+        "name": "香港理工大学",
+        "website": "https://www.qschina.cn/universities/hong-kong-polytechnic-university",
+        "nation": "Hong Kong SAR"
+    },
+    {
+        "rank": "67",
+        "name": "德克萨斯大学奥斯汀分校",
+        "website": "https://www.qschina.cn/universities/university-texas-austin",
+        "nation": "United States"
+    },
+    {
+        "rank": "68",
+        "name": "台湾大学",
+        "website": "https://www.qschina.cn/universities/national-taiwan-university-ntu",
+        "nation": "Taiwan"
+    },
+    {
+        "rank": "69",
+        "name": "布宜诺斯艾利斯大学",
+        "website": "https://www.qschina.cn/universities/universidad-de-buenos-aires-uba",
+        "nation": "Argentina"
+    },
+    {
+        "rank": "=70",
+        "name": "鲁汶大学",
+        "website": "https://www.qschina.cn/universities/ku-leuven",
+        "nation": "Belgium"
+    },
+    {
+        "rank": "=70",
+        "name": "苏黎世大学",
+        "website": "https://www.qschina.cn/universities/university-zurich",
+        "nation": "Switzerland"
+    },
+    {
+        "rank": "72",
+        "name": "索邦大学",
+        "website": "https://www.qschina.cn/universities/sorbonne-university",
+        "nation": "France"
+    },
+    {
+        "rank": "73",
+        "name": "格拉斯哥大学",
+        "website": "https://www.qschina.cn/universities/university-glasgow",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "74",
+        "name": "高丽大学",
+        "website": "https://www.qschina.cn/universities/korea-university",
+        "nation": "South Korea"
+    },
+    {
+        "rank": "=75",
+        "name": "大阪大学",
+        "website": "https://www.qschina.cn/universities/osaka-university",
+        "nation": "Japan"
+    },
+    {
+        "rank": "=75",
+        "name": "威斯康星大学麦迪逊分校",
+        "website": "https://www.qschina.cn/universities/university-wisconsin-madison",
+        "nation": "United States"
+    },
+    {
+        "rank": "77",
+        "name": "南安普敦大学",
+        "website": "https://www.qschina.cn/universities/university-southampton",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "78",
+        "name": "罗蒙诺索夫莫斯科国立大学",
+        "website": "https://www.qschina.cn/universities/lomonosov-moscow-state-university",
+        "nation": "Russia"
+    },
+    {
+        "rank": "=79",
+        "name": "哥本哈根大学",
+        "website": "https://www.qschina.cn/universities/university-copenhagen",
+        "nation": "Denmark"
+    },
+    {
+        "rank": "=79",
+        "name": "延世大学",
+        "website": "https://www.qschina.cn/universities/yonsei-university",
+        "nation": "South Korea"
+    },
+    {
+        "rank": "81",
+        "name": "浦项科技大学",
+        "website": "https://www.qschina.cn/universities/pohang-university-science-technology-postech",
+        "nation": "South Korea"
+    },
+    {
+        "rank": "=82",
+        "name": "杜伦大学",
+        "website": "https://www.qschina.cn/universities/durham-university",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "=82",
+        "name": "东北大学",
+        "website": "https://www.qschina.cn/universities/tohoku-university",
+        "nation": "Japan"
+    },
+    {
+        "rank": "=82",
+        "name": "伊利诺伊大学香槟分校",
+        "website": "https://www.qschina.cn/universities/university-illinois-urbana-champaign",
+        "nation": "United States"
+    },
+    {
+        "rank": "=85",
+        "name": "奥克兰大学",
+        "website": "https://www.qschina.cn/universities/university-auckland",
+        "nation": "New Zealand"
+    },
+    {
+        "rank": "=85",
+        "name": "华盛顿大学",
+        "website": "https://www.qschina.cn/universities/university-washington",
+        "nation": "United States"
+    },
+    {
+        "rank": "=86",
+        "name": "巴黎第十一大学",
+        "website": "https://www.qschina.cn/universities/universite-paris-saclay",
+        "nation": "France"
+    },
+    {
+        "rank": "87",
+        "name": "隆德大学",
+        "website": "https://www.qschina.cn/universities/lund-university",
+        "nation": "Sweden"
+    },
+    {
+        "rank": "88",
+        "name": "乔治亚理工学院(Georgia Tech)",
+        "website": "https://www.qschina.cn/universities/georgia-institute-technology",
+        "nation": "United States"
+    },
+    {
+        "rank": "89",
+        "name": "皇家理工学院",
+        "website": "https://www.qschina.cn/universities/kth-royal-institute-technology",
+        "nation": "Sweden"
+    },
+    {
+        "rank": "90",
+        "name": "伯明翰大学",
+        "website": "https://www.qschina.cn/universities/university-birmingham",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "91",
+        "name": "圣安德鲁斯大学",
+        "website": "https://www.qschina.cn/universities/university-st-andrews",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "92",
+        "name": "利兹大学",
+        "website": "https://www.qschina.cn/universities/university-leeds",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "93",
+        "name": "西澳大学（UWA）",
+        "website": "https://www.qschina.cn/universities/university-western-australia",
+        "nation": "Australia"
+    },
+    {
+        "rank": "94",
+        "name": "赖斯大学",
+        "website": "https://www.qschina.cn/universities/rice-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "95",
+        "name": "谢菲尔德大学",
+        "website": "https://www.qschina.cn/universities/university-sheffield",
+        "nation": "United Kingdom"
+    },
+    {
+        "rank": "96",
+        "name": "宾夕法尼亚州立大学",
+        "website": "https://www.qschina.cn/universities/pennsylvania-state-university",
+        "nation": "United States"
+    },
+    {
+        "rank": "97",
+        "name": "成均馆大学",
+        "website": "https://www.qschina.cn/universities/sungkyunkwan-universityskku",
+        "nation": "South Korea"
+    },
+    {
+        "rank": "98",
+        "name": "中国科学技术大学",
+        "website": "https://www.qschina.cn/universities/university-science-technology-china",
+        "nation": "China (Mainland)"
+    },
+    {
+        "rank": "99",
+        "name": "丹麦技术大学",
+        "website": "https://www.qschina.cn/universities/technical-university-denmark",
+        "nation": "Denmark"
+    }
+]

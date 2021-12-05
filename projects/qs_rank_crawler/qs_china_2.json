@@ -1,0 +1,3377 @@
+[
+    {
+        "rank": "1",
+        "name": "麻省理工学院",
+        "website": "https://www.qschina.cn/universities/massachusetts-institute-technology-mit",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/massachusetts-institute-of-technology-mit_410_large.jpg",
+        "location": "77 Massachusetts Avenue, Cambridge",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#1"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "11,333"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,065"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,730"
+            }
+        ]
+    },
+    {
+        "rank": "2",
+        "name": "牛津大学",
+        "website": "https://www.qschina.cn/universities/university-oxford",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-oxford_478_large.jpg",
+        "location": "Wellington Square, Oxford",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#2"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "20,889"
+            },
+            {
+                "label": "教员人数",
+                "value": "6,708"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "8,442"
+            }
+        ]
+    },
+    {
+        "rank": "=3",
+        "name": "斯坦福大学",
+        "website": "https://www.qschina.cn/universities/stanford-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/stanford-university_573_large.jpg",
+        "location": "450 Serra Mall, Stanford",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=3"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "16,164"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,725"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,879"
+            }
+        ]
+    },
+    {
+        "rank": "=3",
+        "name": "剑桥大学",
+        "website": "https://www.qschina.cn/universities/university-cambridge",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-cambridge_95_large.jpg",
+        "location": "The Old Schools, Trinity Lane, Cambridge",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=3"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "20,383"
+            },
+            {
+                "label": "教员人数",
+                "value": "5,800"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,925"
+            }
+        ]
+    },
+    {
+        "rank": "5",
+        "name": "哈佛大学",
+        "website": "https://www.qschina.cn/universities/harvard-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/harvard-university_253_large.jpg",
+        "location": "1350 Massachusetts Avenue, Cambridge",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#5"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "23,663"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,646"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,877"
+            }
+        ]
+    },
+    {
+        "rank": "6",
+        "name": "加州理工大学（Caltech)",
+        "website": "https://www.qschina.cn/universities/california-institute-technology-caltech",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/california-institute-of-technology-caltech_94_large.jpg",
+        "location": "1200 East California Boulevard, Pasadena",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#6"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "2,237"
+            },
+            {
+                "label": "教员人数",
+                "value": "968"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "692"
+            }
+        ]
+    },
+    {
+        "rank": "7",
+        "name": "帝国理工学院",
+        "website": "https://www.qschina.cn/universities/imperial-college-london",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/imperial-college-london_592560cf2aeae70239af4be8_large.jpg",
+        "location": "South Kensington, London",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#7"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "18,318"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,970"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "11,143"
+            }
+        ]
+    },
+    {
+        "rank": "=8",
+        "name": "苏黎世联邦理工大学（瑞士联邦理工学院）",
+        "website": "https://www.qschina.cn/universities/eth-zurich-swiss-federal-institute-technology",
+        "nation": "Switzerland",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/eth-zurich-swiss-federal-institute-of-technology_201_large.jpg",
+        "location": "Raemistrasse 101, Zürich",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=8"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "19,423"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,719"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,733"
+            }
+        ]
+    },
+    {
+        "rank": "=8",
+        "name": "伦敦大学学院",
+        "website": "https://www.qschina.cn/universities/ucl",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/ucl_592560cf2aeae70239af4bf1_large.jpg",
+        "location": "University College London, Gower Street, London",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=8"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "36,903"
+            },
+            {
+                "label": "教员人数",
+                "value": "7,195"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "21,824"
+            }
+        ]
+    },
+    {
+        "rank": "10",
+        "name": "芝加哥大学",
+        "website": "https://www.qschina.cn/universities/university-chicago",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-chicago_120_large.jpg",
+        "location": "Edward H. Levi Hall, 5801 South Ellis Avenue, Chicago",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#10"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "15,804"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,703"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,696"
+            }
+        ]
+    },
+    {
+        "rank": "11",
+        "name": "新加坡国立大学",
+        "website": "https://www.qschina.cn/universities/national-university-singapore-nus",
+        "nation": "Singapore",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/national-university-of-singapore-nus_443_large.jpg",
+        "location": "21 Lower Kent Ridge Road, Singapore",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#11"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "30,312"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,288"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,551"
+            }
+        ]
+    },
+    {
+        "rank": "12",
+        "name": "南洋理工大学",
+        "website": "https://www.qschina.cn/universities/nanyang-technological-university-singapore-ntu",
+        "nation": "Singapore",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/nanyang-technological-university-singapore-ntu_592560cf2aeae70239af4c32_large.jpg",
+        "location": "50 Nanyang Avenue, Singapore",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#12"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "24,651"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,812"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,091"
+            }
+        ]
+    },
+    {
+        "rank": "13",
+        "name": "宾夕法尼亚大学",
+        "website": "https://www.qschina.cn/universities/university-pennsylvania",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-pennsylvania_495_large.jpg",
+        "location": "University of Pennsylvania, Philadelphia",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#13"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "21,313"
+            },
+            {
+                "label": "教员人数",
+                "value": "5,154"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,636"
+            }
+        ]
+    },
+    {
+        "rank": "=14",
+        "name": "洛桑联邦理工学院（EPFL)",
+        "website": "https://www.qschina.cn/universities/epfl",
+        "nation": "Switzerland",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/epfl-ecole-polytechnique-federale-de-lausanne_592560cf2aeae70239af4b34_large.jpg",
+        "location": "Ecole Polytechnique Federale de Lausanne, Lausanne",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=14"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "10,478"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,767"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,426"
+            }
+        ]
+    },
+    {
+        "rank": "=14",
+        "name": "耶鲁大学",
+        "website": "https://www.qschina.cn/universities/yale-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/yale-university_684_large.jpg",
+        "location": "Yale University, New Haven",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=14"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,420"
+            },
+            {
+                "label": "教员人数",
+                "value": "5,391"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "2,537"
+            }
+        ]
+    },
+    {
+        "rank": "16",
+        "name": "爱丁堡大学",
+        "website": "https://www.qschina.cn/universities/university-edinburgh",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-edinburgh_180_large.jpg",
+        "location": "University of Edinburgh, Old College, Edinburgh",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#16"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "32,799"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,734"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "14,637"
+            }
+        ]
+    },
+    {
+        "rank": "17",
+        "name": "清华大学",
+        "website": "https://www.qschina.cn/universities/tsinghua-university",
+        "nation": "China (Mainland)",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/tsinghua-university_626_large.jpg",
+        "location": "30 Shuangqing Rd, Beijing",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#17"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "39,371"
+            },
+            {
+                "label": "教员人数",
+                "value": "6,174"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,420"
+            }
+        ]
+    },
+    {
+        "rank": "18",
+        "name": "北京大学",
+        "website": "https://www.qschina.cn/universities/peking-university",
+        "nation": "China (Mainland)",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/peking-university_50_large.jpg",
+        "location": "No. 5 Yiheyuan Road, Beijing",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#18"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "31,990"
+            },
+            {
+                "label": "教员人数",
+                "value": "5,302"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,436"
+            }
+        ]
+    },
+    {
+        "rank": "19",
+        "name": "哥伦比亚大学",
+        "website": "https://www.qschina.cn/universities/columbia-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/columbia-university_138_large.jpg",
+        "location": "Columbia University, New York",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#19"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "27,321"
+            },
+            {
+                "label": "教员人数",
+                "value": "7,087"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "11,252"
+            }
+        ]
+    },
+    {
+        "rank": "20",
+        "name": "普林斯顿大学",
+        "website": "https://www.qschina.cn/universities/princeton-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/princeton-university_508_large.jpg",
+        "location": "Princeton University, Princeton",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#20"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "8,305"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,050"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "1,912"
+            }
+        ]
+    },
+    {
+        "rank": "21",
+        "name": "康奈尔大学",
+        "website": "https://www.qschina.cn/universities/cornell-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/cornell-university_143_large.jpg",
+        "location": "144 East Avenue, Ithaca",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#21"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "23,890"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,843"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,675"
+            }
+        ]
+    },
+    {
+        "rank": "22",
+        "name": "香港大学（HKU）",
+        "website": "https://www.qschina.cn/universities/university-hong-kong",
+        "nation": "Hong Kong SAR",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-hong-kong_268_large.jpg",
+        "location": "Main Building, Pokfulam Road, Pokfulam, Pok Fu Lam",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#22"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "19,986"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,944"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "8,311"
+            }
+        ]
+    },
+    {
+        "rank": "=23",
+        "name": "东京大学",
+        "website": "https://www.qschina.cn/universities/university-tokyo",
+        "nation": "Japan",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-tokyo_615_large.jpg",
+        "location": "7-3-1, Tokyo",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=23"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "27,704"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,473"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,983"
+            }
+        ]
+    },
+    {
+        "rank": "=23",
+        "name": "密歇根大学",
+        "website": "https://www.qschina.cn/universities/university-michigan-ann-arbor",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-michigan_403_large.jpg",
+        "location": "G-664 Haven Hall, 505 South State Street, Ann Arbor",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=23"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "45,651"
+            },
+            {
+                "label": "教员人数",
+                "value": "7,132"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,341"
+            }
+        ]
+    },
+    {
+        "rank": "25",
+        "name": "约翰霍普金斯大学",
+        "website": "https://www.qschina.cn/universities/johns-hopkins-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/johns-hopkins-university_305_large.jpg",
+        "location": "Johns Hopkins University, Baltimore",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#25"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "15,310"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,855"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,070"
+            }
+        ]
+    },
+    {
+        "rank": "26",
+        "name": "多伦多大学",
+        "website": "https://www.qschina.cn/universities/university-toronto",
+        "nation": "Canada",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-toronto_619_large.jpg",
+        "location": "27 King's College Circle, Toronto",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#26"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "77,710"
+            },
+            {
+                "label": "教员人数",
+                "value": "9,881"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "27,536"
+            }
+        ]
+    },
+    {
+        "rank": "=27",
+        "name": "麦吉尔大学",
+        "website": "https://www.qschina.cn/universities/mcgill-university",
+        "nation": "Canada",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/mcgill-university_14495_large.jpg",
+        "location": "Bronfman Building, Montreal",
+        "abouts": []
+    },
+    {
+        "rank": "=27",
+        "name": "澳大利亚国立大学（ANU)",
+        "website": "https://www.qschina.cn/universities/australian-national-university",
+        "nation": "Australia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-australian-national-university_40_large.jpg",
+        "location": "The Australian National University, Canberra",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=27"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "16,139"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,763"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,496"
+            }
+        ]
+    },
+    {
+        "rank": "=27",
+        "name": "曼彻斯特大学",
+        "website": "https://www.qschina.cn/universities/university-manchester",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-manchester_389_large.jpg",
+        "location": "The University of Manchester, Oxford Road, Manchester",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=27"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "37,474"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,889"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "16,079"
+            }
+        ]
+    },
+    {
+        "rank": "30",
+        "name": "西北大学",
+        "website": "https://www.qschina.cn/universities/northwestern-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/northwestern-university_592560cf2aeae70239af4c50_large.jpg",
+        "location": "1841 Sheridan Road, Evanston",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#30"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "19,534"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,652"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,846"
+            }
+        ]
+    },
+    {
+        "rank": "31",
+        "name": "复旦大学",
+        "website": "https://www.qschina.cn/universities/fudan-university",
+        "nation": "China (Mainland)",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/fudan-university_218_large.jpg",
+        "location": "220 Handan Road, Yang Pu, Shanghai",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#31"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "28,454"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,526"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,322"
+            }
+        ]
+    },
+    {
+        "rank": "32",
+        "name": "加州大学伯克利分校",
+        "website": "https://www.qschina.cn/universities/university-california-berkeley-ucb",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-california-berkeley-ucb_84_large.jpg",
+        "location": "Campanile Way, Berkeley",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#32"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "41,043"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,701"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "9,428"
+            }
+        ]
+    },
+    {
+        "rank": "33",
+        "name": "京都大学",
+        "website": "https://www.qschina.cn/universities/kyoto-university",
+        "nation": "Japan",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/kyoto-university_328_large.jpg",
+        "location": "Yoshida-Honmachi, Kyoto City",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#33"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "22,608"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,911"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "2,863"
+            }
+        ]
+    },
+    {
+        "rank": "34",
+        "name": "香港科技大学（HKUST)",
+        "website": "https://www.qschina.cn/universities/hong-kong-university-science-technology",
+        "nation": "Hong Kong SAR",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-hong-kong-university-of-science-and-technology_269_large.jpg",
+        "location": "Clear Water Bay, Kowloon",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#34"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,583"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,173"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,033"
+            }
+        ]
+    },
+    {
+        "rank": "35",
+        "name": "伦敦国王学院",
+        "website": "https://www.qschina.cn/universities/kings-college-london",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/kings-college-london_357_large.jpg",
+        "location": "The Strand, London",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#35"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "29,238"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,216"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "15,075"
+            }
+        ]
+    },
+    {
+        "rank": "36",
+        "name": "首尔国立大学",
+        "website": "https://www.qschina.cn/universities/seoul-national-university",
+        "nation": "South Korea",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/seoul-national-university_553_large.jpg",
+        "location": "1 Gwanak-ro, Seoul",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#36"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "26,646"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,859"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "1,914"
+            }
+        ]
+    },
+    {
+        "rank": "37",
+        "name": "墨尔本大学",
+        "website": "https://www.qschina.cn/universities/university-melbourne",
+        "nation": "Australia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-melbourne_399_large.jpg",
+        "location": "Grattan Street, Parkville",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#37"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "46,281"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,660"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "21,840"
+            }
+        ]
+    },
+    {
+        "rank": "38",
+        "name": "悉尼大学",
+        "website": "https://www.qschina.cn/universities/university-sydney",
+        "nation": "Australia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-sydney_592560cf2aeae70239af4cd0_large.jpg",
+        "location": "Camperdown, Sydney",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#38"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "45,678"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,571"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "25,940"
+            }
+        ]
+    },
+    {
+        "rank": "39",
+        "name": "香港中文大学",
+        "website": "https://www.qschina.cn/universities/chinese-university-hong-kong-cuhk",
+        "nation": "Hong Kong SAR",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-chinese-university-of-hong-kong-cuhk_123_large.jpg",
+        "location": "The Chinese University of Hong Kong, Hong Kong",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#39"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "18,297"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,201"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,062"
+            }
+        ]
+    },
+    {
+        "rank": "40",
+        "name": "加州大学洛杉矶分校",
+        "website": "https://www.qschina.cn/universities/university-california-los-angeles-ucla",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-california-los-angeles-ucla_87_large.jpg",
+        "location": "405 Hilgard Avenue, Los Angeles",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#40"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "44,287"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,487"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,140"
+            }
+        ]
+    },
+    {
+        "rank": "41",
+        "name": "韩国科学技术研究所",
+        "website": "https://www.qschina.cn/universities/kaist-korea-advanced-institute-science-technology",
+        "nation": "South Korea",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/kaist-korea-advanced-institute-of-science-technology_324_large.jpg",
+        "location": "373-1, Daejeon",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#41"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,965"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,307"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "869"
+            }
+        ]
+    },
+    {
+        "rank": "42",
+        "name": "纽约大学（NYU）",
+        "website": "https://www.qschina.cn/universities/new-york-university-nyu",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/new-york-university-nyu_448_large.jpg",
+        "location": "New York University (NYU), New York",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#42"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "44,800"
+            },
+            {
+                "label": "教员人数",
+                "value": "7,874"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "16,218"
+            }
+        ]
+    },
+    {
+        "rank": "43",
+        "name": "新南威尔士大学（UNSW）",
+        "website": "https://www.qschina.cn/universities/university-new-south-wales-unsw-sydney",
+        "nation": "Australia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-new-south-wales-unsw-sydney_447_large.jpg",
+        "location": "High St, Kensington, Sydney",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#43"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "45,983"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,219"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "21,603"
+            }
+        ]
+    },
+    {
+        "rank": "44",
+        "name": "巴黎科学艺术人文大学",
+        "website": "https://www.qschina.cn/universities/universite-psl",
+        "nation": "France",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/universit-psl_592560e69988f300e2321dfe_large.jpg",
+        "location": "",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#44"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "19,725"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,914"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,922"
+            }
+        ]
+    },
+    {
+        "rank": "45",
+        "name": "浙江大学",
+        "website": "https://www.qschina.cn/universities/zhejiang-university",
+        "nation": "China (Mainland)",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/zhejiang-university_592560cf2aeae70239af4d37_large.jpg",
+        "location": "866 Yuhangtang Road, Hangzhou",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#45"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "39,936"
+            },
+            {
+                "label": "教员人数",
+                "value": "6,065"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "9,177"
+            }
+        ]
+    },
+    {
+        "rank": "46",
+        "name": "不列颠哥伦比亚大学",
+        "website": "https://www.qschina.cn/universities/university-british-columbia",
+        "nation": "Canada",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-british-columbia_70_large.jpg",
+        "location": "2329 West Mall, Vancouver",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#46"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "55,924"
+            },
+            {
+                "label": "教员人数",
+                "value": "6,201"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "15,399"
+            }
+        ]
+    },
+    {
+        "rank": "47",
+        "name": "昆士兰大学（UQ）",
+        "website": "https://www.qschina.cn/universities/university-queensland",
+        "nation": "Australia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-queensland_515_large.jpg",
+        "location": "JD Story Building, Level 2, University of Queensland St Lucia Campus, Brisbane",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#47"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "41,700"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,513"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "22,241"
+            }
+        ]
+    },
+    {
+        "rank": "48",
+        "name": "加州大学圣地亚哥分校",
+        "website": "https://www.qschina.cn/universities/university-california-san-diego-ucsd",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-california-san-diego-ucsd_89_large.jpg",
+        "location": "9500 Gilman Drive, La Jolla",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#48"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "37,787"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,545"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "8,567"
+            }
+        ]
+    },
+    {
+        "rank": "=49",
+        "name": "巴黎理工学院",
+        "website": "https://www.qschina.cn/universities/institut-polytechnique-de-paris",
+        "nation": "France",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/institut-polytechnique-de-paris_5f3a6d4210ca6076bc71cae4_large.jpg",
+        "location": "Route de Saclay, Palaiseau Cedex",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=49"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "6,104"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,057"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "2,413"
+            }
+        ]
+    },
+    {
+        "rank": "49",
+        "name": "伦敦经济政治学院",
+        "website": "https://www.qschina.cn/universities/london-school-economics-political-science-lse",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/london-school-of-economics-and-political-science-lse_362_large.jpg",
+        "location": "Houghton Street, London",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#49"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "11,309"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,172"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "8,274"
+            }
+        ]
+    },
+    {
+        "rank": "=50",
+        "name": "上海交通大学",
+        "website": "https://www.qschina.cn/universities/shanghai-jiao-tong-university",
+        "nation": "China (Mainland)",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/shanghai-jiao-tong-university_556_large.jpg",
+        "location": "800 Dong Chuan Road, Shanghai",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=50"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "38,740"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,386"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,371"
+            }
+        ]
+    },
+    {
+        "rank": "=50",
+        "name": "慕尼黑工业大学",
+        "website": "https://www.qschina.cn/universities/technical-university-munich",
+        "nation": "Germany",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/technical-university-of-munich_599_large.jpg",
+        "location": "Technical University of Munich, Arcisstraße 21, Munich",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=50"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "34,130"
+            },
+            {
+                "label": "教员人数",
+                "value": "6,663"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "11,447"
+            }
+        ]
+    },
+    {
+        "rank": "52",
+        "name": "杜克大学",
+        "website": "https://www.qschina.cn/universities/duke-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/duke-university_168_large.jpg",
+        "location": "2138 Campus Drive, Durham",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#52"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "15,969"
+            },
+            {
+                "label": "教员人数",
+                "value": "5,673"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,445"
+            }
+        ]
+    },
+    {
+        "rank": "=53",
+        "name": "卡内基梅隆大学",
+        "website": "https://www.qschina.cn/universities/carnegie-mellon-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/carnegie-mellon-university_101_large.jpg",
+        "location": "5000 Forbes Avenue, Pittsburgh",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=53"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "13,577"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,534"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,739"
+            }
+        ]
+    },
+    {
+        "rank": "=53",
+        "name": "香港城市大学",
+        "website": "https://www.qschina.cn/universities/city-university-hong-kong",
+        "nation": "Hong Kong SAR",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/city-university-of-hong-kong_592560cf2aeae70239af4b05_large.jpg",
+        "location": "83 Tat Chee Ave, Kowloon",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=53"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,564"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,483"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,331"
+            }
+        ]
+    },
+    {
+        "rank": "55",
+        "name": "阿姆斯特丹大学",
+        "website": "https://www.qschina.cn/universities/university-amsterdam",
+        "nation": "Netherlands",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-amsterdam_18_large.jpg",
+        "location": "Roeterseiland, REC-E, Amsterdam",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#55"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "30,541"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,829"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,969"
+            }
+        ]
+    },
+    {
+        "rank": "56",
+        "name": "东京工业大学",
+        "website": "https://www.qschina.cn/universities/tokyo-institute-technology-tokyo-tech",
+        "nation": "Japan",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/tokyo-institute-of-technology_592560cf2aeae70239af4ceb_large.jpg",
+        "location": "2-12-1 Ookayama, Tokyo",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#56"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,878"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,492"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "1,622"
+            }
+        ]
+    },
+    {
+        "rank": "57",
+        "name": "代尔夫特理工大学",
+        "website": "https://www.qschina.cn/universities/delft-university-technology",
+        "nation": "Netherlands",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/delft-university-of-technology_155_large.jpg",
+        "location": "Stevinweg 1, Delft",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#57"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "20,273"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,041"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,104"
+            }
+        ]
+    },
+    {
+        "rank": "58",
+        "name": "蒙纳士大学",
+        "website": "https://www.qschina.cn/universities/monash-university",
+        "nation": "Australia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/monash-university_412_large.jpg",
+        "location": "Wellington Rd & Blackburn Rd, Melbourne",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#58"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "56,812"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,852"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "31,049"
+            }
+        ]
+    },
+    {
+        "rank": "60",
+        "name": "布朗大学",
+        "website": "https://www.qschina.cn/universities/brown-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/brown-university_72_large.jpg",
+        "location": "Brown University, Providence",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#60"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,652"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,389"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "2,002"
+            }
+        ]
+    },
+    {
+        "rank": "61",
+        "name": "华威大学",
+        "website": "https://www.qschina.cn/universities/university-warwick",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-warwick_664_large.jpg",
+        "location": "University of Warwick, Coventry",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#61"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "23,892"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,634"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "10,459"
+            }
+        ]
+    },
+    {
+        "rank": "62",
+        "name": "布里斯托大学",
+        "website": "https://www.qschina.cn/universities/university-bristol",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-bristol_69_large.jpg",
+        "location": "Senate House, Tyndall Avenue, Bristol",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#62"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "25,659"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,210"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,483"
+            }
+        ]
+    },
+    {
+        "rank": "63",
+        "name": "鲁普莱希特-卡尔斯-海德堡大学",
+        "website": "https://www.qschina.cn/universities/ruprecht-karls-universitat-heidelberg",
+        "nation": "Germany",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/ruprecht-karls-universitaet-heidelberg_259_large.jpg",
+        "location": "Grabengasse 1, Heidelberg",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#63"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "19,347"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,100"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,048"
+            }
+        ]
+    },
+    {
+        "rank": "64",
+        "name": "路德维希 - 马克西米利安 - 慕尼黑大学",
+        "website": "https://www.qschina.cn/universities/ludwig-maximilians-universitat-munchen",
+        "nation": "Germany",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/ludwig-maximilians-universitt-mnchen_420_large.jpg",
+        "location": "Geschwister-Scholl Platz 1, München",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#64"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "35,319"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,914"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,958"
+            }
+        ]
+    },
+    {
+        "rank": "65",
+        "name": "马来亚大学（UM）",
+        "website": "https://www.qschina.cn/universities/universiti-malaya-um",
+        "nation": "Malaysia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/universiti-malaya-um_383_large.jpg",
+        "location": "Universiti Malaya, Kuala Lumpur",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#65"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "18,559"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,386"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,340"
+            }
+        ]
+    },
+    {
+        "rank": "66",
+        "name": "香港理工大学",
+        "website": "https://www.qschina.cn/universities/hong-kong-polytechnic-university",
+        "nation": "Hong Kong SAR",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-hong-kong-polytechnic-university_267_large.jpg",
+        "location": "No.11 Yuk Choi Rd, Kowloon",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#66"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "20,387"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,822"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,774"
+            }
+        ]
+    },
+    {
+        "rank": "67",
+        "name": "德克萨斯大学奥斯汀分校",
+        "website": "https://www.qschina.cn/universities/university-texas-austin",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-texas-at-austin_604_large.jpg",
+        "location": "University of Texas at Austin, Austin",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#67"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "48,741"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,887"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,953"
+            }
+        ]
+    },
+    {
+        "rank": "68",
+        "name": "台湾大学",
+        "website": "https://www.qschina.cn/universities/national-taiwan-university-ntu",
+        "nation": "Taiwan",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/national-taiwan-university-ntu_592560cf2aeae70239af4c3c_large.jpg",
+        "location": "No.1, Sec. 4, Roosevelt Road,, Taipei City",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#68"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "29,467"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,939"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,058"
+            }
+        ]
+    },
+    {
+        "rank": "69",
+        "name": "布宜诺斯艾利斯大学",
+        "website": "https://www.qschina.cn/universities/universidad-de-buenos-aires-uba",
+        "nation": "Argentina",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/universidad-de-buenos-aires-uba_78_large.jpg",
+        "location": "Viamonte 430, Buenos Aires",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#69"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "117,449"
+            },
+            {
+                "label": "教员人数",
+                "value": "16,103"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "29,516"
+            }
+        ]
+    },
+    {
+        "rank": "=70",
+        "name": "鲁汶大学",
+        "website": "https://www.qschina.cn/universities/ku-leuven",
+        "nation": "Belgium",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/ku-leuven_592560cf2aeae70239af4aec_large.jpg",
+        "location": "Oude Markt 13, Leuven",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=70"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "47,880"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,677"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "8,485"
+            }
+        ]
+    },
+    {
+        "rank": "=70",
+        "name": "苏黎世大学",
+        "website": "https://www.qschina.cn/universities/university-zurich",
+        "nation": "Switzerland",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-zurich_693_large.jpg",
+        "location": "Rämistrasse 71, Zürich",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=70"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "23,285"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,761"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,044"
+            }
+        ]
+    },
+     {
+        "rank": "72",
+        "name": "索邦大学",
+        "website": "https://www.qschina.cn/universities/sorbonne-university",
+        "nation": "France",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/sorbonne-university_5a6afcfecb4de709397114fe_large.jpg",
+        "location": "",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#72"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "42,207"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,680"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "8,782"
+            }
+        ]
+    },
+    {
+        "rank": "73",
+        "name": "格拉斯哥大学",
+        "website": "https://www.qschina.cn/universities/university-glasgow",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-glasgow_592560cf2aeae70239af4b6c_large.jpg",
+        "location": "University Avenue, Glasgow",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#73"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "28,249"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,314"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "11,065"
+            }
+        ]
+    },
+    {
+        "rank": "74",
+        "name": "高丽大学",
+        "website": "https://www.qschina.cn/universities/korea-university",
+        "nation": "South Korea",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/korea-university_325_large.jpg",
+        "location": "145 Anam-Ro, Seongbuk-Gu, Seoul",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#74"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "26,014"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,026"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,325"
+            }
+        ]
+    },
+    {
+        "rank": "=75",
+        "name": "大阪大学",
+        "website": "https://www.qschina.cn/universities/osaka-university",
+        "nation": "Japan",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/osaka-university_472_large.jpg",
+        "location": "1-1 Yamadaoka, Suita, Osaka",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=75"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "22,618"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,127"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "2,268"
+            }
+        ]
+    },
+    {
+        "rank": "=75",
+        "name": "威斯康星大学麦迪逊分校",
+        "website": "https://www.qschina.cn/universities/university-wisconsin-madison",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-wisconsin-madison_678_large.jpg",
+        "location": "University of Wisconsin-Madison, Madison",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=75"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "40,699"
+            },
+            {
+                "label": "教员人数",
+                "value": "5,166"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,737"
+            }
+        ]
+    },
+    {
+        "rank": "77",
+        "name": "南安普敦大学",
+        "website": "https://www.qschina.cn/universities/university-southampton",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-southampton_567_large.jpg",
+        "location": "University Road, Southampton",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#77"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "21,752"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,468"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "8,417"
+            }
+        ]
+    },
+    {
+        "rank": "78",
+        "name": "罗蒙诺索夫莫斯科国立大学",
+        "website": "https://www.qschina.cn/universities/lomonosov-moscow-state-university",
+        "nation": "Russia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/lomonosov-moscow-state-university-_592560cf2aeae70239af4c27_large.jpg",
+        "location": "GSP-1, Leninskie Gory, Moscow",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#78"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "30,365"
+            },
+            {
+                "label": "教员人数",
+                "value": "6,575"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "10,239"
+            }
+        ]
+    },
+    {
+        "rank": "=79",
+        "name": "哥本哈根大学",
+        "website": "https://www.qschina.cn/universities/university-copenhagen",
+        "nation": "Denmark",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-copenhagen_141_large.jpg",
+        "location": "Nørregade 10, Copenhagen",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=79"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "30,311"
+            },
+            {
+                "label": "教员人数",
+                "value": "7,293"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,135"
+            }
+        ]
+    },
+    {
+        "rank": "=79",
+        "name": "延世大学",
+        "website": "https://www.qschina.cn/universities/yonsei-university",
+        "nation": "South Korea",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/yonsei-university_688_large.jpg",
+        "location": "50 Yonsei-ro, Seodaemun-gu, Seoul",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=79"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "23,269"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,605"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,274"
+            }
+        ]
+    },
+    {
+        "rank": "81",
+        "name": "浦项科技大学",
+        "website": "https://www.qschina.cn/universities/pohang-university-science-technology-postech",
+        "nation": "South Korea",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/pohang-university-of-science-and-technology-postech_592560cf2aeae70239af4c7b_large.jpg",
+        "location": "77 Cheongam-Ro, Pohang",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#81"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "3,096"
+            },
+            {
+                "label": "教员人数",
+                "value": "743"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "87"
+            }
+        ]
+    },
+    {
+        "rank": "=82",
+        "name": "杜伦大学",
+        "website": "https://www.qschina.cn/universities/durham-university",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/durham-university_170_large.jpg",
+        "location": "The University Office, Durham",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=82"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "18,717"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,775"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,174"
+            }
+        ]
+    },
+    {
+        "rank": "=82",
+        "name": "东北大学",
+        "website": "https://www.qschina.cn/universities/tohoku-university",
+        "nation": "Japan",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/tohoku-university_611_large.jpg",
+        "location": "2-1-1 Katahira, Aoba-ku, Sendai",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=82"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "17,717"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,323"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "1,872"
+            }
+        ]
+    },
+    {
+        "rank": "=82",
+        "name": "伊利诺伊大学香槟分校",
+        "website": "https://www.qschina.cn/universities/university-illinois-urbana-champaign",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-illinois-at-urbana-champaign_2090_large.jpg",
+        "location": "901 West Illinois Street, Champaign",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=82"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "45,906"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,748"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "9,987"
+            }
+        ]
+    },
+    {
+        "rank": "=85",
+        "name": "奥克兰大学",
+        "website": "https://www.qschina.cn/universities/university-auckland",
+        "nation": "New Zealand",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-auckland_592560cf2aeae70239af4aa8_large.jpg",
+        "location": "Auckland CBD, Auckland",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=85"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "28,361"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,316"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "9,924"
+            }
+        ]
+    },
+    {
+        "rank": "=85",
+        "name": "华盛顿大学",
+        "website": "https://www.qschina.cn/universities/university-washington",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-washington_592560cf2aeae70239af4d1e_large.jpg",
+        "location": "University of Washington, Seattle",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=85"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "43,156"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,796"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,362"
+            }
+        ]
+    },
+    {
+        "rank": "=86",
+        "name": "巴黎第十一大学",
+        "website": "https://www.qschina.cn/universities/universite-paris-saclay",
+        "nation": "France",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/universit-paris-saclay_592560cf2aeae70239af4c6e_large.jpg",
+        "location": "RD180, Saint Aubin",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#=86"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "40,358"
+            },
+            {
+                "label": "教员人数",
+                "value": "8,010"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "7,649"
+            }
+        ]
+    },
+    {
+        "rank": "87",
+        "name": "隆德大学",
+        "website": "https://www.qschina.cn/universities/lund-university",
+        "nation": "Sweden",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/lund-university_371_large.jpg",
+        "location": "Paradisgatan 2, Lund",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#87"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "27,443"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,040"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,682"
+            }
+        ]
+    },
+    {
+        "rank": "88",
+        "name": "乔治亚理工学院(Georgia Tech)",
+        "website": "https://www.qschina.cn/universities/georgia-institute-technology",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/georgia-institute-of-technology_225_large.jpg",
+        "location": "North Avenue, Atlanta",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#88"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "24,422"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,267"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "5,675"
+            }
+        ]
+    },
+    {
+        "rank": "89",
+        "name": "皇家理工学院",
+        "website": "https://www.qschina.cn/universities/kth-royal-institute-technology",
+        "nation": "Sweden",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/kth-royal-institute-of-technology-_592560cf2aeae70239af4c9b_large.jpg",
+        "location": "Brinellvägen 8, Stockholm",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#89"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "13,359"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,704"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,057"
+            }
+        ]
+    },
+    {
+        "rank": "90",
+        "name": "伯明翰大学",
+        "website": "https://www.qschina.cn/universities/university-birmingham",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-birmingham_59_large.jpg",
+        "location": "Edgbaston, Birmingham",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#90"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "32,562"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,586"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "10,457"
+            }
+        ]
+    },
+    {
+        "rank": "91",
+        "name": "圣安德鲁斯大学",
+        "website": "https://www.qschina.cn/universities/university-st-andrews",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-st-andrews_570_large.jpg",
+        "location": "University of St Andrews, St. Andrews",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#91"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,643"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,208"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "4,377"
+            }
+        ]
+    },
+    {
+        "rank": "92",
+        "name": "利兹大学",
+        "website": "https://www.qschina.cn/universities/university-leeds",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-leeds_338_large.jpg",
+        "location": "Leeds",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#92"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "34,979"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,593"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "11,584"
+            }
+        ]
+    },
+    {
+        "rank": "93",
+        "name": "西澳大学（UWA）",
+        "website": "https://www.qschina.cn/universities/university-western-australia",
+        "nation": "Australia",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-western-australia_673_large.jpg",
+        "location": "35 Stirling Highway, Perth",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#93"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "18,535"
+            },
+            {
+                "label": "教员人数",
+                "value": "1,539"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "9,017"
+            }
+        ]
+    },
+    {
+        "rank": "94",
+        "name": "赖斯大学",
+        "website": "https://www.qschina.cn/universities/rice-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/rice-university_524_large.jpg",
+        "location": "6100 Main Street, Houston",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#94"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "7,277"
+            },
+            {
+                "label": "教员人数",
+                "value": "996"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "2,278"
+            }
+        ]
+    },
+    {
+        "rank": "95",
+        "name": "谢菲尔德大学",
+        "website": "https://www.qschina.cn/universities/university-sheffield",
+        "nation": "United Kingdom",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/the-university-of-sheffield_592560cf2aeae70239af4cb1_large.jpg",
+        "location": "Western Bank, Sheffield",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#95"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "27,840"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,463"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "11,090"
+            }
+        ]
+    },
+    {
+        "rank": "96",
+        "name": "宾夕法尼亚州立大学",
+        "website": "https://www.qschina.cn/universities/pennsylvania-state-university",
+        "nation": "United States",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/pennsylvania-state-university_494_large.jpg",
+        "location": "State College, University Park",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#96"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "44,827"
+            },
+            {
+                "label": "教员人数",
+                "value": "4,207"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "6,943"
+            }
+        ]
+    },
+    {
+        "rank": "97",
+        "name": "成均馆大学",
+        "website": "https://www.qschina.cn/universities/sungkyunkwan-universityskku",
+        "nation": "South Korea",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/sungkyunkwan-universityskku_592560cf2aeae70239af4cc9_large.jpg",
+        "location": "2066 Seobu-ro, Suwon",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#97"
+            },
+            {
+                "label": "高校性质",
+                "value": "Private"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "22,482"
+            },
+            {
+                "label": "教员人数",
+                "value": "3,313"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "3,821"
+            }
+        ]
+    },
+    {
+        "rank": "98",
+        "name": "中国科学技术大学",
+        "website": "https://www.qschina.cn/universities/university-science-technology-china",
+        "nation": "China (Mainland)",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/university-of-science-and-technology-of-china_122_large.jpg",
+        "location": "No. 96 Jinzhai Road, Hefei",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#98"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "17,922"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,708"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "1,019"
+            }
+        ]
+    },
+    {
+        "rank": "99",
+        "name": "丹麦技术大学",
+        "website": "https://www.qschina.cn/universities/technical-university-denmark",
+        "nation": "Denmark",
+        "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/technical-university-of-denmark_592560cf2aeae70239af4cd8_large.jpg",
+        "location": "Anker Engelunds Vej 1, Kgs. Lyngby",
+        "abouts": [
+            {
+                "label": "QS全球排名",
+                "value": "#99"
+            },
+            {
+                "label": "高校性质",
+                "value": "Public"
+            },
+            {
+                "label": "研究成果",
+                "value": "Very High"
+            },
+            {
+                "label": "学生人数",
+                "value": "9,322"
+            },
+            {
+                "label": "教员人数",
+                "value": "2,219"
+            },
+            {
+                "label": "国际学生人数",
+                "value": "2,495"
+            }
+        ]
+    }
+]
