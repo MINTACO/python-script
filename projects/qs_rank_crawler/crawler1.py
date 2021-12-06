@@ -29,18 +29,18 @@ edge_service = EdgeService(executable_path=EDGE_DRIVER_LOCATION)
 
 edge_options = webdriver.EdgeOptions()
 # 后台运行
-edge_options.add_argument('--headless')
+edge_options.add_argument('--start-maximized')
 edge_options.use_chromium = True
 
 driver = webdriver.Edge(service=edge_service, options=edge_options)
 
-url = r'https://www.topuniversities.com/university-rankings/usa-rankings/2021'
+url = r'https://www.topuniversities.com/university-rankings/world-university-rankings/2022'
 
 driver.get(url)
 
 # cookie弹窗
 wait = WebDriverWait(driver, 10)
-cookie_accept_button = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[4]/div/div/div[2]/button')))
+cookie_accept_button = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[5]/div/div/div[2]/button')))
 cookie_accept_button.click()
 print('cookie accept button click')
 sleep(2)
@@ -51,7 +51,7 @@ print('window scrollTo(0, 1600)')
 
 # 点击分页器
 wait = WebDriverWait(driver, 10)
-page_navigation = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div/div/div[1]/div[2]/main/section/div/section/section/div/div/article/div/div[3]/div/div[1]/div/div[3]/div[4]/div[1]/div[2]')))
+page_navigation = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div/div/div[1]/div[2]/main/section/div/section/section/div/div/article/div/div[3]/div/div/div/div[3]/div[4]/div[1]/div[2]')))
 page_navigation.click()
 sleep(2)
 

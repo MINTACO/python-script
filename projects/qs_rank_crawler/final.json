@@ -32,7 +32,8 @@
                 "value": "3,730"
             }
         ],
-        "description": "“Mind and Hand” is the thought-provoking motto of the Massachusetts Institute of Technology, known also as MIT. This motto enigmatically encapsulates this famous institution’s mission to advance knowledge in science, technology and areas of scholarship that can help to make the world a better place. "
+        "description": "“Mind and Hand” is the thought-provoking motto of the Massachusetts Institute of Technology, known also as MIT. This motto enigmatically encapsulates this famous institution’s mission to advance knowledge in science, technology and areas of scholarship that can help to make the world a better place. ",
+        "en_name": "Massachusetts Institute of Technology (MIT)"
     },
     {
         "rank": "2",
@@ -67,7 +68,8 @@
                 "value": "8,442"
             }
         ],
-        "description": "The University of Oxford is the oldest university in the English-speaking world, and is actually so ancient that its founding date is unknown – though it is thought that teaching took place there as early as the 11th century. "
+        "description": "The University of Oxford is the oldest university in the English-speaking world, and is actually so ancient that its founding date is unknown – though it is thought that teaching took place there as early as the 11th century. ",
+        "en_name": "University of Oxford"
     },
     {
         "rank": "=3",
@@ -102,7 +104,8 @@
                 "value": "3,879"
             }
         ],
-        "description": "Located 35 miles south of San Francisco and 20 miles north of San Jose, Stanford University is in the heart of Northern California’s dynamic Silicon Valley, home to Yahoo, Google, Hewlett-Packard, and many other cutting-edge tech companies that were founded by and continue to be led by Stanford alumni and faculty. Nicknamed the “billionaire factory”, it is said that if Stanford graduates formed their own country it would boast one of the world’s largest ten economies. "
+        "description": "Located 35 miles south of San Francisco and 20 miles north of San Jose, Stanford University is in the heart of Northern California’s dynamic Silicon Valley, home to Yahoo, Google, Hewlett-Packard, and many other cutting-edge tech companies that were founded by and continue to be led by Stanford alumni and faculty. Nicknamed the “billionaire factory”, it is said that if Stanford graduates formed their own country it would boast one of the world’s largest ten economies. ",
+        "en_name": "Stanford University"
     },
     {
         "rank": "=3",
@@ -137,7 +140,8 @@
                 "value": "7,925"
             }
         ],
-        "description": "Located in the center of the ancient city of Cambridge, 50 miles north of London, the University of Cambridge is a collegiate public research institution that serves more than 18,000 students from all corners of the globe. "
+        "description": "Located in the center of the ancient city of Cambridge, 50 miles north of London, the University of Cambridge is a collegiate public research institution that serves more than 18,000 students from all corners of the globe. ",
+        "en_name": "University of Cambridge"
     },
     {
         "rank": "5",
@@ -172,7 +176,8 @@
                 "value": "5,877"
             }
         ],
-        "description": "Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world. "
+        "description": "Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world. ",
+        "en_name": "Harvard University"
     },
     {
         "rank": "6",
@@ -207,7 +212,8 @@
                 "value": "692"
             }
         ],
-        "description": "The California Institute of Technology (Caltech) is a world-renowned science and engineering research and education institution, located in Pasadena, California, around 11 miles northeast of downtown Los Angeles. "
+        "description": "The California Institute of Technology (Caltech) is a world-renowned science and engineering research and education institution, located in Pasadena, California, around 11 miles northeast of downtown Los Angeles. ",
+        "en_name": "California Institute of Technology (Caltech)"
     },
     {
         "rank": "7",
@@ -242,7 +248,8 @@
                 "value": "11,143"
             }
         ],
-        "description": "Ranked 9th in the world in the QS World University Rankings® 2020, Imperial College London is a one-of-a-kind institution in the UK, focusing solely on science, engineering, medicine and business. Imperial offers an education that is research-led, exposing youto real world challenges with no easy answers, teaching that opens everythingup to question and opportunities to work across multi-cultural, multi-nationalteams."
+        "description": "Ranked 9th in the world in the QS World University Rankings® 2020, Imperial College London is a one-of-a-kind institution in the UK, focusing solely on science, engineering, medicine and business. Imperial offers an education that is research-led, exposing youto real world challenges with no easy answers, teaching that opens everythingup to question and opportunities to work across multi-cultural, multi-nationalteams.",
+        "en_name": "Imperial College London"
     },
     {
         "rank": "=8",
@@ -277,7 +284,8 @@
                 "value": "7,733"
             }
         ],
-        "description": ""
+        "description": "",
+        "en_name": "ETH Zurich - Swiss Federal Institute of Technology"
     },
     {
         "rank": "=8",
@@ -312,7 +320,8 @@
                 "value": "21,824"
             }
         ],
-        "description": "UCL is one of the world’s top multidisciplinary universities, with an international reputation for the quality of its research and teaching."
+        "description": "UCL is one of the world’s top multidisciplinary universities, with an international reputation for the quality of its research and teaching.",
+        "en_name": "UCL"
     },
     {
         "rank": "10",
@@ -347,7 +356,8 @@
                 "value": "4,696"
             }
         ],
-        "description": "Established in 1856, the University of Chicago is a private research university based in the urban center of Chicago, the third most populous city in the United States. Outside of the Ivy League, Chicago is one of America’s top universities, and holds top-ten positions in various national and international rankings. "
+        "description": "Established in 1856, the University of Chicago is a private research university based in the urban center of Chicago, the third most populous city in the United States. Outside of the Ivy League, Chicago is one of America’s top universities, and holds top-ten positions in various national and international rankings. ",
+        "en_name": "University of Chicago"
     },
     {
         "rank": "11",
@@ -382,7 +392,8 @@
                 "value": "7,551"
             }
         ],
-        "description": "A leading global university centred in Asia, the National University of Singapore (NUS) is Singapore’s flagship university, which offers a global approach to education and research, with a focus on Asian perspectives and expertise.\n\nNUS has 17 faculties and schools across three campuses. Its transformative education includes a broad-based curriculum underscored by multi-disciplinary courses and cross-faculty enrichment. Over 38,000 students from 100 countries enrich the community with their diverse social and cultural perspectives. NUS also strives to create a supportive and innovative...\nRead more"
+        "description": "A leading global university centred in Asia, the National University of Singapore (NUS) is Singapore’s flagship university, which offers a global approach to education and research, with a focus on Asian perspectives and expertise.\n\nNUS has 17 faculties and schools across three campuses. Its transformative education includes a broad-based curriculum underscored by multi-disciplinary courses and cross-faculty enrichment. Over 38,000 students from 100 countries enrich the community with their diverse social and cultural perspectives. NUS also strives to create a supportive and innovative...\nRead more",
+        "en_name": "National University of Singapore (NUS)"
     },
     {
         "rank": "12",
@@ -417,7 +428,8 @@
                 "value": "6,091"
             }
         ],
-        "description": "Young and research-intensive, Nanyang Technological University, Singapore (NTU Singapore) is placed 11th globally, and 1st among the world’s best young universities for five consecutive years (QS university rankings).\n \nHome to 33,000 students, NTU offers engineering, science, business, humanities, arts, social sciences, and education, and has a joint medical school with Imperial College London.\n \nRanked the top university in the world for citations in artificial intelligence (Nikkei and Elsevier 2017) for the period 2012-2016, NTU is embracing digital technologies for better learning...\nRead more"
+        "description": "Young and research-intensive, Nanyang Technological University, Singapore (NTU Singapore) is placed 11th globally, and 1st among the world’s best young universities for five consecutive years (QS university rankings).\n \nHome to 33,000 students, NTU offers engineering, science, business, humanities, arts, social sciences, and education, and has a joint medical school with Imperial College London.\n \nRanked the top university in the world for citations in artificial intelligence (Nikkei and Elsevier 2017) for the period 2012-2016, NTU is embracing digital technologies for better learning...\nRead more",
+        "en_name": "Nanyang Technological University, Singapore (NTU)"
     },
     {
         "rank": "13",
@@ -452,7 +464,8 @@
                 "value": "4,636"
             }
         ],
-        "description": "The University of Pennsylvania is a private Ivy League research university located in the city of Philadelphia. It was founded in 1740 by Benjamin Franklin, one of the United States’ founding fathers, who was eager to create a school to educate future generations. "
+        "description": "The University of Pennsylvania is a private Ivy League research university located in the city of Philadelphia. It was founded in 1740 by Benjamin Franklin, one of the United States’ founding fathers, who was eager to create a school to educate future generations. ",
+        "en_name": "University of Pennsylvania"
     },
     {
         "rank": "=14",
@@ -487,7 +500,8 @@
                 "value": "6,426"
             }
         ],
-        "description": "The École polytechnique fédérale de Lausanne (EPFL) is a research institute and university in Lausanne, Switzerland, specializing in the natural sciences and engineering. "
+        "description": "The École polytechnique fédérale de Lausanne (EPFL) is a research institute and university in Lausanne, Switzerland, specializing in the natural sciences and engineering. ",
+        "en_name": "EPFL"
     },
     {
         "rank": "=14",
@@ -522,7 +536,8 @@
                 "value": "2,537"
             }
         ],
-        "description": "Yale University is a private research university and a member of the prestigious Ivy League, a group of America’s most celebrated higher education institutions. Situated in New Haven, Connecticut, the first planned city in America, Yale was founded by English Puritans in 1701, making it the third-oldest higher education institution in the United States. "
+        "description": "Yale University is a private research university and a member of the prestigious Ivy League, a group of America’s most celebrated higher education institutions. Situated in New Haven, Connecticut, the first planned city in America, Yale was founded by English Puritans in 1701, making it the third-oldest higher education institution in the United States. ",
+        "en_name": "Yale University"
     },
     {
         "rank": "16",
@@ -557,7 +572,8 @@
                 "value": "14,637"
             }
         ],
-        "description": ""
+        "description": "",
+        "en_name": "The University of Edinburgh"
     },
     {
         "rank": "17",
@@ -592,7 +608,8 @@
                 "value": "5,420"
             }
         ],
-        "description": "Students looking for great engineering and computer science programs need look no further than Tsinghua University in Beijing, which since 2015 has been ranked as one of the best in the world for both disciplines. "
+        "description": "Students looking for great engineering and computer science programs need look no further than Tsinghua University in Beijing, which since 2015 has been ranked as one of the best in the world for both disciplines. ",
+        "en_name": "Tsinghua University"
     },
     {
         "rank": "18",
@@ -627,7 +644,8 @@
                 "value": "5,436"
             }
         ],
-        "description": "The oldest higher education institution in China, Peking University was founded in 1898 as a replacement for the ancient Guozijian school (Imperial College). By the early 1920s, it had become a center for Chinese progressive thought, playing an important role in China's New Culture Movement, the May Fourth Movement, and the Tiananmen Square protest of 1989, among other significant historical events. "
+        "description": "The oldest higher education institution in China, Peking University was founded in 1898 as a replacement for the ancient Guozijian school (Imperial College). By the early 1920s, it had become a center for Chinese progressive thought, playing an important role in China's New Culture Movement, the May Fourth Movement, and the Tiananmen Square protest of 1989, among other significant historical events. ",
+        "en_name": "Peking University"
     },
     {
         "rank": "19",
@@ -662,7 +680,8 @@
                 "value": "11,252"
             }
         ],
-        "description": "Established in 1754, Columbia University is a private Ivy League research university in Upper Manhattan, New York City. It was established as King's College by royal charter of George II of Great Britain and renamed Columbia College in 1784 following the American Revolutionary War. "
+        "description": "Established in 1754, Columbia University is a private Ivy League research university in Upper Manhattan, New York City. It was established as King's College by royal charter of George II of Great Britain and renamed Columbia College in 1784 following the American Revolutionary War. ",
+        "en_name": "Columbia University"
     },
     {
         "rank": "20",
@@ -697,7 +716,8 @@
                 "value": "1,912"
             }
         ],
-        "description": "Princeton is one of the oldest and most prestigious universities in the United States. It was founded in 1746 and moved to its current site in New Jersey in 1896. "
+        "description": "Princeton is one of the oldest and most prestigious universities in the United States. It was founded in 1746 and moved to its current site in New Jersey in 1896. ",
+        "en_name": "Princeton University"
     },
     {
         "rank": "21",
@@ -732,7 +752,8 @@
                 "value": "5,675"
             }
         ],
-        "description": "\"I would found an institution where any person can find instruction in any study,” is the motto of Cornell University, words first uttered by its co-founder Ezra Cornell. Cornell was founded in 1865 with the then radical intention of teaching and making contributions in all fields of knowledge. "
+        "description": "\"I would found an institution where any person can find instruction in any study,” is the motto of Cornell University, words first uttered by its co-founder Ezra Cornell. Cornell was founded in 1865 with the then radical intention of teaching and making contributions in all fields of knowledge. ",
+        "en_name": "Cornell University"
     },
     {
         "rank": "22",
@@ -767,7 +788,8 @@
                 "value": "8,311"
             }
         ],
-        "description": "The University of Hong Kong (HKU), is Hong Kong’s oldest tertiary institution, with a history stretching back over a hundred years. The University of Hong Kong is ranked 26th amongst the most respected comprehensive research-led universities in the world."
+        "description": "The University of Hong Kong (HKU), is Hong Kong’s oldest tertiary institution, with a history stretching back over a hundred years. The University of Hong Kong is ranked 26th amongst the most respected comprehensive research-led universities in the world.",
+        "en_name": "The University of Hong Kong"
     },
     {
         "rank": "=23",
@@ -802,7 +824,8 @@
                 "value": "3,983"
             }
         ],
-        "description": "Established in 1877 as the first imperial university, the University of Tokyo is one of Japan’s most storied and prestigious higher education establishments. In 2011, the university, which is nicknamed Todai, was ranked second in the world behind Harvard for the number of alumni in CEO positions at Fortune 500 companies. Also, 15 of Japan’s 62 prime ministers were educated at the University of Tokyo, and five alumni have gone on to become astronauts. "
+        "description": "Established in 1877 as the first imperial university, the University of Tokyo is one of Japan’s most storied and prestigious higher education establishments. In 2011, the university, which is nicknamed Todai, was ranked second in the world behind Harvard for the number of alumni in CEO positions at Fortune 500 companies. Also, 15 of Japan’s 62 prime ministers were educated at the University of Tokyo, and five alumni have gone on to become astronauts. ",
+        "en_name": "The University of Tokyo"
     },
     {
         "rank": "=23",
@@ -837,7 +860,8 @@
                 "value": "7,341"
             }
         ],
-        "description": "One of the foremost research universities in the United States, the University of Michigan was founded in 1817, before Michigan had even become a state, and moved from Detroit to what is now its Central campus in Ann Arbor in 1837. "
+        "description": "One of the foremost research universities in the United States, the University of Michigan was founded in 1817, before Michigan had even become a state, and moved from Detroit to what is now its Central campus in Ann Arbor in 1837. ",
+        "en_name": "University of Michigan-Ann Arbor"
     },
     {
         "rank": "25",
@@ -872,9 +896,10 @@
                 "value": "5,070"
             }
         ],
-        "description": "Johns Hopkins University is an American private research university in Baltimore, Maryland. It was founded in 1876, and named after its first benefactor, the American entrepreneur, abolitionist, and philanthropist Johns Hopkins. "
+        "description": "Johns Hopkins University is an American private research university in Baltimore, Maryland. It was founded in 1876, and named after its first benefactor, the American entrepreneur, abolitionist, and philanthropist Johns Hopkins. ",
+        "en_name": "Johns Hopkins University"
     },
-     {
+    {
         "rank": "26",
         "name": "多伦多大学",
         "website": "https://www.qschina.cn/universities/university-toronto",
@@ -907,7 +932,8 @@
                 "value": "27,536"
             }
         ],
-         "description": "Founded in 1827, the University of Toronto has evolved into Canada’s leading institution of learning, discovery and knowledge creation. We are proud to be one of the world’s top research-intensive universities, driven to invent and innovate."
+        "description": "Founded in 1827, the University of Toronto has evolved into Canada’s leading institution of learning, discovery and knowledge creation. We are proud to be one of the world’s top research-intensive universities, driven to invent and innovate.",
+        "en_name": "University of Toronto"
     },
     {
         "rank": "=27",
@@ -917,7 +943,8 @@
         "img_url": "https://www.qschina.cn/sites/default/files/profiles/logos/mcgill-university_14495_large.jpg",
         "location": "Bronfman Building, Montreal",
         "abouts": [],
-        "description": "Founded in 1906, the Desautels Faculty of Management at McGill University is ranked as one of the world’s top international business schools by BusinessWeek, Canadian Business, Forbes, The Economist and the Financial Times. The Faculty’s innovative programs and historic reputation for excellence continue to attract the finest students and the most prominent professors from around the globe, as well as the most demanding recruiters from the world’s top employers. Desautels houses numerous research centres and academic programs at the undergraduate, masters, executive, and PhD levels. "
+        "description": "Founded in 1906, the Desautels Faculty of Management at McGill University is ranked as one of the world’s top international business schools by BusinessWeek, Canadian Business, Forbes, The Economist and the Financial Times. The Faculty’s innovative programs and historic reputation for excellence continue to attract the finest students and the most prominent professors from around the globe, as well as the most demanding recruiters from the world’s top employers. Desautels houses numerous research centres and academic programs at the undergraduate, masters, executive, and PhD levels. ",
+        "en_name": "McGill University"
     },
     {
         "rank": "=27",
@@ -952,7 +979,8 @@
                 "value": "6,496"
             }
         ],
-        "description": "The Australian National University (ANU) is a world-leading centre for education and research. Ranked #1 in Australia and #22 in the world (QS World University Rankings 2016-17), Australia’s national university is further distinguished by an outstanding record for student satisfaction and graduate employability.\n\nFor academic and professional staff, ANU offers excellent conditions including flexible working arrangements, professional development opportunities, competitive pay and generous superannuation - all within an integrated and engaged on-campus community. Learn more about the benefits of...\nRead more"
+        "description": "The Australian National University (ANU) is a world-leading centre for education and research. Ranked #1 in Australia and #22 in the world (QS World University Rankings 2016-17), Australia’s national university is further distinguished by an outstanding record for student satisfaction and graduate employability.\n\nFor academic and professional staff, ANU offers excellent conditions including flexible working arrangements, professional development opportunities, competitive pay and generous superannuation - all within an integrated and engaged on-campus community. Learn more about the benefits of...\nRead more",
+        "en_name": "The Australian National University"
     },
     {
         "rank": "=27",
@@ -987,7 +1015,8 @@
                 "value": "16,079"
             }
         ],
-        "description": "The University of Manchester offers over 1,000 degree programmes, including foundation courses, bachelor’s degrees, master’s programs, PhDs and MBAs across the humanities and business, science and engineering subject areas. \n\nRanked seventh in the QS World University Rankings® 2018, the University of Manchester is a prestigious red brick university and a member of the Russell Group, a select network of leading research-intensive universities.  It has an incredible track record in innovation, and has 25 Nobel Prize winners among its current and former staff and...\nRead more"
+        "description": "The University of Manchester offers over 1,000 degree programmes, including foundation courses, bachelor’s degrees, master’s programs, PhDs and MBAs across the humanities and business, science and engineering subject areas. \n\nRanked seventh in the QS World University Rankings® 2018, the University of Manchester is a prestigious red brick university and a member of the Russell Group, a select network of leading research-intensive universities.  It has an incredible track record in innovation, and has 25 Nobel Prize winners among its current and former staff and...\nRead more",
+        "en_name": "The University of Manchester"
     },
     {
         "rank": "30",
@@ -1022,7 +1051,8 @@
                 "value": "3,846"
             }
         ],
-        "description": "With three campuses and a global presence, Northwestern University transcends traditional academic boundaries. Our highly collaborative environment provides our diverse students and faculty with exceptional opportunities for personal and professional growth."
+        "description": "With three campuses and a global presence, Northwestern University transcends traditional academic boundaries. Our highly collaborative environment provides our diverse students and faculty with exceptional opportunities for personal and professional growth.",
+        "en_name": "Northwestern University"
     },
     {
         "rank": "31",
@@ -1057,7 +1087,8 @@
                 "value": "5,322"
             }
         ],
-        "description": "Ask any would-be Chinese undergraduate where they most would like to study, and chances are Fudan will be mentioned. Based in downtown Shanghai amid the bustle and beauty of this urban metropolis, Fudan is one of China’s most prestigious and selective schools. "
+        "description": "Ask any would-be Chinese undergraduate where they most would like to study, and chances are Fudan will be mentioned. Based in downtown Shanghai amid the bustle and beauty of this urban metropolis, Fudan is one of China’s most prestigious and selective schools. ",
+        "en_name": "Fudan University"
     },
     {
         "rank": "32",
@@ -1092,7 +1123,8 @@
                 "value": "9,428"
             }
         ],
-        "description": "Founded in 1868, the University of California, Berkeley (UCB) is a public research university and the flagship institution of the ten research universities affiliated with the University of California system. "
+        "description": "Founded in 1868, the University of California, Berkeley (UCB) is a public research university and the flagship institution of the ten research universities affiliated with the University of California system. ",
+        "en_name": "University of California, Berkeley (UCB)"
     },
     {
         "rank": "33",
@@ -1127,7 +1159,8 @@
                 "value": "2,863"
             }
         ],
-        "description": "Kyoto University is one of Asia’s leading research-oriented institutions and is famed for producing world-beating researchers, including 13 Nobel Prize laureates. "
+        "description": "Kyoto University is one of Asia’s leading research-oriented institutions and is famed for producing world-beating researchers, including 13 Nobel Prize laureates. ",
+        "en_name": "Kyoto University"
     },
     {
         "rank": "34",
@@ -1162,7 +1195,8 @@
                 "value": "3,033"
             }
         ],
-        "description": "Established in 1991, the Hong Kong University of Science and Technology (HKUST) is an international research university dedicated to top-notch education and research. Founded on its mission to advance learning and knowledge through teaching and research particularly in science, technology, engineering, management and business studies complemented by humanities and social sciences, as well as assisting in Hong Kong’s socioeconomic development, this young and ambitious University has gone beyond the wildest dreams of many, climbing high in international esteem and reaping numerous honors and...\nRead more"
+        "description": "Established in 1991, the Hong Kong University of Science and Technology (HKUST) is an international research university dedicated to top-notch education and research. Founded on its mission to advance learning and knowledge through teaching and research particularly in science, technology, engineering, management and business studies complemented by humanities and social sciences, as well as assisting in Hong Kong’s socioeconomic development, this young and ambitious University has gone beyond the wildest dreams of many, climbing high in international esteem and reaping numerous honors and...\nRead more",
+        "en_name": "The Hong Kong University of Science and Technology"
     },
     {
         "rank": "35",
@@ -1197,7 +1231,8 @@
                 "value": "15,075"
             }
         ],
-        "description": "If you want to make a difference and help shape the world in which we live, King’s College London (part of the University of London) could be the place for you. As one of the top 20 universities worldwide and the 4th oldest in the UK, our globally respected postgraduate qualifications will give you an edge in today's competitive world. King's has a reputation for excellence, and for making sure our graduates are provided with the best possible opportunities. Our wide range of taught and research postgraduate programmes means you can build on your achievements and work towards your own...\nRead more"
+        "description": "If you want to make a difference and help shape the world in which we live, King’s College London (part of the University of London) could be the place for you. As one of the top 20 universities worldwide and the 4th oldest in the UK, our globally respected postgraduate qualifications will give you an edge in today's competitive world. King's has a reputation for excellence, and for making sure our graduates are provided with the best possible opportunities. Our wide range of taught and research postgraduate programmes means you can build on your achievements and work towards your own...\nRead more",
+        "en_name": "King's College London"
     },
     {
         "rank": "36",
@@ -1232,7 +1267,8 @@
                 "value": "1,914"
             }
         ],
-        "description": "Founded in 1946 by the merger of ten higher education institutions, Seoul National University enjoys a prestige unlike any other Korean university. It endured a tumultuous time during the mid-20th century, becoming one of Japan’s Imperial Universities during its occupation of Korea, and it was taken over by North Korea during the Korean War of the 1950s. "
+        "description": "Founded in 1946 by the merger of ten higher education institutions, Seoul National University enjoys a prestige unlike any other Korean university. It endured a tumultuous time during the mid-20th century, becoming one of Japan’s Imperial Universities during its occupation of Korea, and it was taken over by North Korea during the Korean War of the 1950s. ",
+        "en_name": "Seoul National University"
     },
     {
         "rank": "37",
@@ -1267,7 +1303,8 @@
                 "value": "21,840"
             }
         ],
-        "description": "When the University of Melbourne was established in 1853, it was a mere cluster of buildings in a large park on the fringe of the city, with four professors and 16 students. The university now sits at the heart of a thriving international city and is consistently ranked among the leading universities in the world and number one in Australia. "
+        "description": "When the University of Melbourne was established in 1853, it was a mere cluster of buildings in a large park on the fringe of the city, with four professors and 16 students. The university now sits at the heart of a thriving international city and is consistently ranked among the leading universities in the world and number one in Australia. ",
+        "en_name": "The University of Melbourne"
     },
     {
         "rank": "38",
@@ -1302,7 +1339,8 @@
                 "value": "25,940"
             }
         ],
-        "description": "The University of Sydney was founded on the principle of giving everyone the opportunity to realise their potential through education and still holds that belief just as strongly today.\n\nCurrently ranked 4th in the world, and 1st in Australia, for graduate employability*, the University of Sydney is also consistently placed among the top 50 universities in the world**.\n\nWith a reimagined undergraduate curriculum, state-of-the-art facilities, world-class teaching and learning and a vibrant campus life, it is a place where students can attain widely recognised and respected qualifications.\n\nThe...\nRead more"
+        "description": "The University of Sydney was founded on the principle of giving everyone the opportunity to realise their potential through education and still holds that belief just as strongly today.\n\nCurrently ranked 4th in the world, and 1st in Australia, for graduate employability*, the University of Sydney is also consistently placed among the top 50 universities in the world**.\n\nWith a reimagined undergraduate curriculum, state-of-the-art facilities, world-class teaching and learning and a vibrant campus life, it is a place where students can attain widely recognised and respected qualifications.\n\nThe...\nRead more",
+        "en_name": "The University of Sydney"
     },
     {
         "rank": "39",
@@ -1337,7 +1375,8 @@
                 "value": "6,062"
             }
         ],
-        "description": "Founded in 1963, the Chinese University of Hong Kong (CUHK) is a comprehensive research university with a global vision and a mission to combine tradition with modernity, and to bring together China and the West."
+        "description": "Founded in 1963, the Chinese University of Hong Kong (CUHK) is a comprehensive research university with a global vision and a mission to combine tradition with modernity, and to bring together China and the West.",
+        "en_name": "The Chinese University of Hong Kong (CUHK)"
     },
     {
         "rank": "40",
@@ -1372,7 +1411,8 @@
                 "value": "6,140"
             }
         ],
-        "description": "Based in warm and sunny Los Angeles, the University of California, Los Angeles (UCLA) was ranked the 31st best university in the world according to the QS World University Rankings® 2016-2017."
+        "description": "Based in warm and sunny Los Angeles, the University of California, Los Angeles (UCLA) was ranked the 31st best university in the world according to the QS World University Rankings® 2016-2017.",
+        "en_name": "University of California, Los Angeles (UCLA)"
     },
     {
         "rank": "41",
@@ -1407,7 +1447,8 @@
                 "value": "869"
             }
         ],
-        "description": "Formerly known as the Korea Advanced Institute of Science and Technology, KAIST was South Korea’s first research-oriented science and engineering institution when it was founded in 1971. For such as young university, KAIST’s standing is growing rapidly: it is widely acknowledged as the best university in Korea and has been named the most innovative university in the Asia-Pacific region. "
+        "description": "Formerly known as the Korea Advanced Institute of Science and Technology, KAIST was South Korea’s first research-oriented science and engineering institution when it was founded in 1971. For such as young university, KAIST’s standing is growing rapidly: it is widely acknowledged as the best university in Korea and has been named the most innovative university in the Asia-Pacific region. ",
+        "en_name": "KAIST - Korea Advanced Institute of Science & Technology"
     },
     {
         "rank": "42",
@@ -1442,7 +1483,8 @@
                 "value": "16,218"
             }
         ],
-        "description": "New York University (NYU) was rated the maximum five QS stars, achieving full marks in the categories research, innovation, facilities and specialist criteria.\n\nRanked 46th in the QS World University Rankings® 2016-2017, NYU is one of the best universities in the world, and its graduates are favoured by recruiters, as indicated by NYU’s excellent performance in the Graduate Employability Rankings 2017.\n\nNYU ranks among the top universities in the world in the QS World University Rankings® by Subject for:"
+        "description": "New York University (NYU) was rated the maximum five QS stars, achieving full marks in the categories research, innovation, facilities and specialist criteria.\n\nRanked 46th in the QS World University Rankings® 2016-2017, NYU is one of the best universities in the world, and its graduates are favoured by recruiters, as indicated by NYU’s excellent performance in the Graduate Employability Rankings 2017.\n\nNYU ranks among the top universities in the world in the QS World University Rankings® by Subject for:",
+        "en_name": "New York University (NYU)"
     },
     {
         "rank": "43",
@@ -1477,7 +1519,8 @@
                 "value": "21,603"
             }
         ],
-        "description": "UNSW Sydney (The University of New South Wales) is one of the world’s leading research and teaching universities. Established in 1949, we are home to more than 60,000 students from over 130 countries and an alumni community of 300,000 that spans the world."
+        "description": "UNSW Sydney (The University of New South Wales) is one of the world’s leading research and teaching universities. Established in 1949, we are home to more than 60,000 students from over 130 countries and an alumni community of 300,000 that spans the world.",
+        "en_name": "The University of New South Wales (UNSW Sydney)"
     },
     {
         "rank": "44",
@@ -1512,7 +1555,8 @@
                 "value": "4,922"
             }
         ],
-        "description": "Université PSL (Paris Sciences & Lettres) offers an ideal environment for the development of academic excellence, creation and innovation.Arts, sciences and engineering are at the core of its intellectual and scientific ambition. As a global selective university, rooted in interdisciplinarity and committed to promoting talents and defending equal opportunity, PSL creates the world of tomorrow."
+        "description": "Université PSL (Paris Sciences & Lettres) offers an ideal environment for the development of academic excellence, creation and innovation.Arts, sciences and engineering are at the core of its intellectual and scientific ambition. As a global selective university, rooted in interdisciplinarity and committed to promoting talents and defending equal opportunity, PSL creates the world of tomorrow.",
+        "en_name": "Université PSL"
     },
     {
         "rank": "45",
@@ -1547,7 +1591,8 @@
                 "value": "9,177"
             }
         ],
-        "description": "Zhejiang University (ZJU) is one of China’s top higher education institutions, as well as one of its oldest; its roots can be traced back to 1897 and the founding of the Qiushi Academy.\nLocated in Hangzhou – one of China’s most picturesque cities – the University is organized across seven faculties and 36 schools. It is home to 3,611 full-time faculty members, including 41 members of the Chinese Academy of Sciences and the Chinese Academy of Engineering. ZJU has 53,673 students, over 53% of whom are postgraduate students."
+        "description": "Zhejiang University (ZJU) is one of China’s top higher education institutions, as well as one of its oldest; its roots can be traced back to 1897 and the founding of the Qiushi Academy.\nLocated in Hangzhou – one of China’s most picturesque cities – the University is organized across seven faculties and 36 schools. It is home to 3,611 full-time faculty members, including 41 members of the Chinese Academy of Sciences and the Chinese Academy of Engineering. ZJU has 53,673 students, over 53% of whom are postgraduate students.",
+        "en_name": "Zhejiang University"
     },
     {
         "rank": "46",
@@ -1582,7 +1627,8 @@
                 "value": "15,399"
             }
         ],
-        "description": "Ranked as the 51st best university in the world in the QS World University Rankings® 2018, the University of British Columbia has an excellent reputation with academics and employers alike and a particularly international faculty. The University of British Columbia excels in a number of subjects, as indicated by the QS World University Rankings by Subject, including: "
+        "description": "Ranked as the 51st best university in the world in the QS World University Rankings® 2018, the University of British Columbia has an excellent reputation with academics and employers alike and a particularly international faculty. The University of British Columbia excels in a number of subjects, as indicated by the QS World University Rankings by Subject, including: ",
+        "en_name": "University of British Columbia"
     },
     {
         "rank": "47",
@@ -1617,7 +1663,8 @@
                 "value": "22,241"
             }
         ],
-        "description": "一个多世纪以来，昆士兰大学(UQ)在全球都以创新改变著称，注重知识导向，力求创造更美好的世界。"
+        "description": "一个多世纪以来，昆士兰大学(UQ)在全球都以创新改变著称，注重知识导向，力求创造更美好的世界。",
+        "en_name": "The University of Queensland"
     },
     {
         "rank": "48",
@@ -1652,7 +1699,8 @@
                 "value": "8,567"
             }
         ],
-        "description": "The University of California, San Diego (also known as UC San Diego), is one of the top 20 universities in the United States, according to the 2018 edition of the QS World University Rankings. The seventh oldest of the 10 campuses which comprise the University of California, UC San Diego is home to approximately 22,700 undergraduates and 6,300 postgraduates. The university is split into six different residential colleges, as well as three graduate schools and two professional medical schools. The campus is decorated by over a dozen public art projects, providing the university with a...\nRead more"
+        "description": "The University of California, San Diego (also known as UC San Diego), is one of the top 20 universities in the United States, according to the 2018 edition of the QS World University Rankings. The seventh oldest of the 10 campuses which comprise the University of California, UC San Diego is home to approximately 22,700 undergraduates and 6,300 postgraduates. The university is split into six different residential colleges, as well as three graduate schools and two professional medical schools. The campus is decorated by over a dozen public art projects, providing the university with a...\nRead more",
+        "en_name": "University of California, San Diego (UCSD)"
     },
     {
         "rank": "=49",
@@ -1687,7 +1735,8 @@
                 "value": "2,413"
             }
         ],
-        "description": "Institut Polytechnique de Paris is a public higher education and research institution that brings together five top-tier French engineering schools: École Polytechnique, ENSTA Paris, ENSAE Paris, Télécom Paris and Télécom SudParis."
+        "description": "Institut Polytechnique de Paris is a public higher education and research institution that brings together five top-tier French engineering schools: École Polytechnique, ENSTA Paris, ENSAE Paris, Télécom Paris and Télécom SudParis.",
+        "en_name": "Institut Polytechnique de Paris"
     },
     {
         "rank": "49",
@@ -1722,7 +1771,8 @@
                 "value": "8,274"
             }
         ],
-        "description": "The London School of Economics and Political Science (LSE) offers you the opportunity to study the social sciences in an institution with a worldwide academic reputation, while enjoying the cultural, social and recreational facilities of one of the world’s greatest capital cities."
+        "description": "The London School of Economics and Political Science (LSE) offers you the opportunity to study the social sciences in an institution with a worldwide academic reputation, while enjoying the cultural, social and recreational facilities of one of the world’s greatest capital cities.",
+        "en_name": "The London School of Economics and Political Science (LSE)"
     },
     {
         "rank": "=50",
@@ -1757,7 +1807,8 @@
                 "value": "6,371"
             }
         ],
-        "description": "Founded in 1896, the Shanghai Jiao Tong University is one of the most prestigious universities in China. The main language of instruction is Mandarin, while more and more undergraduate and postgraduate courses are being taught in English or jointly taught with international institutions. The university’s several campuses across Shanghai encompass an enormous arena with several badminton courts, tennis courts, basketball courts, bookstores, canteens, cafes and restaurants."
+        "description": "Founded in 1896, the Shanghai Jiao Tong University is one of the most prestigious universities in China. The main language of instruction is Mandarin, while more and more undergraduate and postgraduate courses are being taught in English or jointly taught with international institutions. The university’s several campuses across Shanghai encompass an enormous arena with several badminton courts, tennis courts, basketball courts, bookstores, canteens, cafes and restaurants.",
+        "en_name": "Shanghai Jiao Tong University"
     },
     {
         "rank": "=50",
@@ -1792,7 +1843,8 @@
                 "value": "11,447"
             }
         ],
-        "description": "Consistently featured as one of the highest-ranked universities in Germany in the QS World University Rankings®, Technical University of Munich (Technische Universität München), also known as TUM, was founded in 1868 and is a member of the TU9, an association of nine of Germany’s most prestigious technical universities.  TUM has 15 academic departments and over 40,000 students, of which over 30% are international. It calls itself The Entrepreneurial University and aims to foster a supportive environment for budding entrepreneurs. There are around 200 degree programs available including a...\nRead more"
+        "description": "Consistently featured as one of the highest-ranked universities in Germany in the QS World University Rankings®, Technical University of Munich (Technische Universität München), also known as TUM, was founded in 1868 and is a member of the TU9, an association of nine of Germany’s most prestigious technical universities.  TUM has 15 academic departments and over 40,000 students, of which over 30% are international. It calls itself The Entrepreneurial University and aims to foster a supportive environment for budding entrepreneurs. There are around 200 degree programs available including a...\nRead more",
+        "en_name": "Technical University of Munich"
     },
     {
         "rank": "52",
@@ -1827,7 +1879,8 @@
                 "value": "3,445"
             }
         ],
-        "description": "Founded in 1838, Duke University is a private research university located in Durham, North Carolina, named after the university’s great benefactor James Buchanan Duke’s deceased father, Washington Duke. "
+        "description": "Founded in 1838, Duke University is a private research university located in Durham, North Carolina, named after the university’s great benefactor James Buchanan Duke’s deceased father, Washington Duke. ",
+        "en_name": "Duke University"
     },
     {
         "rank": "=53",
@@ -1862,7 +1915,8 @@
                 "value": "5,739"
             }
         ],
-        "description": "Carnegie Mellon University is a global research universitythat challenges its students to deliver work that matters in top-rankedprograms from engineering, computer science, robotics and business to publicpolicy, fine arts, science and the humanities. "
+        "description": "Carnegie Mellon University is a global research universitythat challenges its students to deliver work that matters in top-rankedprograms from engineering, computer science, robotics and business to publicpolicy, fine arts, science and the humanities. ",
+        "en_name": "Carnegie Mellon University"
     },
     {
         "rank": "=53",
@@ -1897,7 +1951,8 @@
                 "value": "5,331"
             }
         ],
-        "description": "City University of Hong Kong (CityU) is a leading global university with a burgeoning local and global reputation for professional education and research. The University is strongly committed to creating an internationalised space for professional education, pursuing world-class research  that benefits the world. It has established a culture of innovation and discovery, and nurtures the talents of students.\n\nAs a visionary hub for professional education and problem-driven research with a special focus on One Health, Smart City and Digital Society, responding to societal and technological...\nRead more"
+        "description": "City University of Hong Kong (CityU) is a leading global university with a burgeoning local and global reputation for professional education and research. The University is strongly committed to creating an internationalised space for professional education, pursuing world-class research  that benefits the world. It has established a culture of innovation and discovery, and nurtures the talents of students.\n\nAs a visionary hub for professional education and problem-driven research with a special focus on One Health, Smart City and Digital Society, responding to societal and technological...\nRead more",
+        "en_name": "City University of Hong Kong"
     },
     {
         "rank": "55",
@@ -1932,7 +1987,8 @@
                 "value": "7,969"
             }
         ],
-        "description": "Ranked in the top 20 universities in Europe and the top 65 worldwide, the University of Amsterdam (UvA)  stands for boundless curiosity – learning, research and innovation for a better world. Our 34,000 students from over 100 countries study a vast range of subjects from media, psychology and business to artificial intelligence.\n\nWe offer one of Europe’s largest selections of English-taught degree programmes, including some that are unique to us. A modern research university with roots going back to 1632, the UvA is set in the heart of a bustling European capital city that you can cycle...\nRead more"
+        "description": "Ranked in the top 20 universities in Europe and the top 65 worldwide, the University of Amsterdam (UvA)  stands for boundless curiosity – learning, research and innovation for a better world. Our 34,000 students from over 100 countries study a vast range of subjects from media, psychology and business to artificial intelligence.\n\nWe offer one of Europe’s largest selections of English-taught degree programmes, including some that are unique to us. A modern research university with roots going back to 1632, the UvA is set in the heart of a bustling European capital city that you can cycle...\nRead more",
+        "en_name": "University of Amsterdam"
     },
     {
         "rank": "56",
@@ -1967,7 +2023,8 @@
                 "value": "1,622"
             }
         ],
-        "description": "Tokyo Tech’s three campuses — two in Japan’s clean, vibrant capital, and one in adjacent Yokohama — provide a comfortable setting for a truly unique study experience. The long-cherished practical science and engineering education for which the Institute is known allows all students to experience the pleasures of research from an early stage. Findings from research institutes such as ELSI are fed back into curricula, and as laboratory members, students are in close contact with the world’s top researchers. Tokyo Tech's DLab unites faculty and students with the public to seek answers...\nRead more"
+        "description": "Tokyo Tech’s three campuses — two in Japan’s clean, vibrant capital, and one in adjacent Yokohama — provide a comfortable setting for a truly unique study experience. The long-cherished practical science and engineering education for which the Institute is known allows all students to experience the pleasures of research from an early stage. Findings from research institutes such as ELSI are fed back into curricula, and as laboratory members, students are in close contact with the world’s top researchers. Tokyo Tech's DLab unites faculty and students with the public to seek answers...\nRead more",
+        "en_name": "Tokyo Institute of Technology (Tokyo Tech)"
     },
     {
         "rank": "57",
@@ -2002,7 +2059,8 @@
                 "value": "6,104"
             }
         ],
-        "description": "Based in Delft in the Netherlands, Delft University of Technology has one of the largest campuses in the world. Extending over 161 hectares, it features restaurants, parks, cycle paths, a botanical garden, a new media center, a flight simulator and an aerodynamics and propulsion lab."
+        "description": "Based in Delft in the Netherlands, Delft University of Technology has one of the largest campuses in the world. Extending over 161 hectares, it features restaurants, parks, cycle paths, a botanical garden, a new media center, a flight simulator and an aerodynamics and propulsion lab.",
+        "en_name": "Delft University of Technology"
     },
     {
         "rank": "58",
@@ -2037,7 +2095,8 @@
                 "value": "31,049"
             }
         ],
-        "description": "Monash University "
+        "description": "Monash University ",
+        "en_name": "Monash University"
     },
     {
         "rank": "60",
@@ -2072,7 +2131,8 @@
                 "value": "2,002"
             }
         ],
-        "description": "Brown University is a private Ivy League university based in Providence, Rhode Island. It was ranked 49th in the world in the QS World University Rankings® 2016-2017 and 25th in the Graduate Employability Rankings 2017."
+        "description": "Brown University is a private Ivy League university based in Providence, Rhode Island. It was ranked 49th in the world in the QS World University Rankings® 2016-2017 and 25th in the Graduate Employability Rankings 2017.",
+        "en_name": "Brown University"
     },
     {
         "rank": "61",
@@ -2107,7 +2167,8 @@
                 "value": "10,459"
             }
         ],
-        "description": "Born out of boldness, imagination and collaboration, the University of Warwick is a world-leading university with the highest academic and research standards.\n\nOur campus in Coventry welcomes over 26,500 students from over 150countries. We’re a constant presence in the rankings of the UK's and the world’s greatest universities, and the 2014 Research Excellence Framework placed us 7th among UK research universities, meaning you’ll learn alongside academics at the cusp of new thinking.\n\nWarwick constantly invests into student services and campus facilities. You'll benefit from excellent support...\nRead more"
+        "description": "Born out of boldness, imagination and collaboration, the University of Warwick is a world-leading university with the highest academic and research standards.\n\nOur campus in Coventry welcomes over 26,500 students from over 150countries. We’re a constant presence in the rankings of the UK's and the world’s greatest universities, and the 2014 Research Excellence Framework placed us 7th among UK research universities, meaning you’ll learn alongside academics at the cusp of new thinking.\n\nWarwick constantly invests into student services and campus facilities. You'll benefit from excellent support...\nRead more",
+        "en_name": "The University of Warwick"
     },
     {
         "rank": "62",
@@ -2142,7 +2203,8 @@
                 "value": "7,483"
             }
         ],
-        "description": "The University of Bristol was ranked 41st in the world in the QS World University Rankings® 2016-2017 and 39th in the Graduate Employability Rankings 2017. "
+        "description": "The University of Bristol was ranked 41st in the world in the QS World University Rankings® 2016-2017 and 39th in the Graduate Employability Rankings 2017. ",
+        "en_name": "University of Bristol"
     },
     {
         "rank": "63",
@@ -2177,7 +2239,8 @@
                 "value": "4,048"
             }
         ],
-        "description": ""
+        "description": "",
+        "en_name": "Ruprecht-Karls-Universität Heidelberg"
     },
     {
         "rank": "64",
@@ -2212,7 +2275,8 @@
                 "value": "5,958"
             }
         ],
-        "description": "Ludwig-Maximilians-Universität München - the University in the heart of Munich - is recognized as one of Europe's premier academic and research institutions. Since our founding in 1472, LMU has attracted inspired scholars and talented students from around the globe, keeping the University at the nexus of ideas that challenge and change our complex world."
+        "description": "Ludwig-Maximilians-Universität München - the University in the heart of Munich - is recognized as one of Europe's premier academic and research institutions. Since our founding in 1472, LMU has attracted inspired scholars and talented students from around the globe, keeping the University at the nexus of ideas that challenge and change our complex world.",
+        "en_name": "Ludwig-Maximilians-Universität München"
     },
     {
         "rank": "65",
@@ -2247,7 +2311,8 @@
                 "value": "3,340"
             }
         ],
-        "description": "University of Malaya, the first University of the country, is situated on a 750-acre (309-hectare) campus in the southwest of Kuala Lumpur, the capital city of Malaysia.The University of Malaya grew out of a tradition of service to the society. Its predecessors, the King Edward VII College of Medicine established in 1905 and Raffles College in 1929, has been established to meet urgent demands, one in medicine and the other in education. When the two came together to form the University of Malaya in October 1949, this was so that they might perform together an even greater service - to help..."
+        "description": "University of Malaya, the first University of the country, is situated on a 750-acre (309-hectare) campus in the southwest of Kuala Lumpur, the capital city of Malaysia.The University of Malaya grew out of a tradition of service to the society. Its predecessors, the King Edward VII College of Medicine established in 1905 and Raffles College in 1929, has been established to meet urgent demands, one in medicine and the other in education. When the two came together to form the University of Malaya in October 1949, this was so that they might perform together an even greater service - to help...",
+        "en_name": "Universiti Malaya (UM)"
     },
     {
         "rank": "66",
@@ -2282,7 +2347,8 @@
                 "value": "5,774"
             }
         ],
-        "description": "Situated on China’s south coast in Hong Kong, amidst east and west cultures and skyscrapers, The Hong Kong Polytechnic University (PolyU) is located in the Hung Hom area of Kowloon. Thanks to its innovative methods of education, groundbreaking research and knowledge transfer achievements The Hong Kong Polytechnic University has been ranked:"
+        "description": "Situated on China’s south coast in Hong Kong, amidst east and west cultures and skyscrapers, The Hong Kong Polytechnic University (PolyU) is located in the Hung Hom area of Kowloon. Thanks to its innovative methods of education, groundbreaking research and knowledge transfer achievements The Hong Kong Polytechnic University has been ranked:",
+        "en_name": "The Hong Kong Polytechnic University"
     },
     {
         "rank": "67",
@@ -2317,7 +2383,8 @@
                 "value": "4,953"
             }
         ],
-        "description": "The University of Texas at Austin ranks 67th in the QS World University Rankings® 2018 and among the top 80 universities in the world for employability in the QS Graduate Employability Rankings 2017. The US university is particularly strong in communication and media, for which it’s ranked sixth in the world in the QS World University Rankings by Subject."
+        "description": "The University of Texas at Austin ranks 67th in the QS World University Rankings® 2018 and among the top 80 universities in the world for employability in the QS Graduate Employability Rankings 2017. The US university is particularly strong in communication and media, for which it’s ranked sixth in the world in the QS World University Rankings by Subject.",
+        "en_name": "University of Texas at Austin"
     },
     {
         "rank": "68",
@@ -2352,7 +2419,8 @@
                 "value": "5,058"
             }
         ],
-        "description": "国立台湾大学 (NTU) 成立于1928年，是台湾最著名的综合性研究型大学，历史可追溯到1895年成立的台湾医院。从位于现代文化气息浓厚的首都台北的主校区，到台湾中部广袤的实验森林，台大的校园展现了台湾岛的美丽风景。 台大拥有2,000名教职员，32,000名学生，提供280多个学位课程，从自然科学到人文社会科学，以创新研究和产学合作为基础。"
+        "description": "国立台湾大学 (NTU) 成立于1928年，是台湾最著名的综合性研究型大学，历史可追溯到1895年成立的台湾医院。从位于现代文化气息浓厚的首都台北的主校区，到台湾中部广袤的实验森林，台大的校园展现了台湾岛的美丽风景。 台大拥有2,000名教职员，32,000名学生，提供280多个学位课程，从自然科学到人文社会科学，以创新研究和产学合作为基础。",
+        "en_name": "National Taiwan University (NTU)"
     },
     {
         "rank": "69",
@@ -2387,7 +2455,8 @@
                 "value": "29,516"
             }
         ],
-        "description": "Founded in 1821, the Argentine university Universidad de Buenos Aires (UBA) is one of the largest universities in Latin America.  It has produced four Nobel Prize winners, several presidents and the Marxist guerilla fighter, Che Guevara, and is widely respected in the region."
+        "description": "Founded in 1821, the Argentine university Universidad de Buenos Aires (UBA) is one of the largest universities in Latin America.  It has produced four Nobel Prize winners, several presidents and the Marxist guerilla fighter, Che Guevara, and is widely respected in the region.",
+        "en_name": "Universidad de Buenos Aires (UBA)"
     },
     {
         "rank": "=70",
@@ -2422,7 +2491,8 @@
                 "value": "8,485"
             }
         ],
-        "description": "Founded in 1425, KU Leuven has been a centre of learning for almost six centuries. Today, it is Belgium’s highest-ranked university as well as one of the oldest and most renowned universities in Europe. As a leading European research university and co-founder of the League of European Research Universities (LERU), KU Leuven offers a wide variety of programmes in English. These programmes are supported by high-quality inter disciplinary research carried out at both the university and its internationally acclaimed hospitals. Boasting an outstanding central location in the heart of Europe, KU...\nRead more"
+        "description": "Founded in 1425, KU Leuven has been a centre of learning for almost six centuries. Today, it is Belgium’s highest-ranked university as well as one of the oldest and most renowned universities in Europe. As a leading European research university and co-founder of the League of European Research Universities (LERU), KU Leuven offers a wide variety of programmes in English. These programmes are supported by high-quality inter disciplinary research carried out at both the university and its internationally acclaimed hospitals. Boasting an outstanding central location in the heart of Europe, KU...\nRead more",
+        "en_name": "KU Leuven"
     },
     {
         "rank": "=70",
@@ -2457,9 +2527,10 @@
                 "value": "5,044"
             }
         ],
-        "description": "Founded in 1833, the University of Zurich is Switzerland's largest university."
+        "description": "Founded in 1833, the University of Zurich is Switzerland's largest university.",
+        "en_name": "University of Zurich"
     },
-     {
+    {
         "rank": "72",
         "name": "索邦大学",
         "website": "https://www.qschina.cn/universities/sorbonne-university",
@@ -2492,7 +2563,8 @@
                 "value": "8,782"
             }
         ],
-         "description": "This new French university draws on centuries of tradition in research and education. By joining two leading Paris universities*, an exceptional centre of knowledge has been recreated under the world-renowned Sorbonne name."
+        "description": "This new French university draws on centuries of tradition in research and education. By joining two leading Paris universities*, an exceptional centre of knowledge has been recreated under the world-renowned Sorbonne name.",
+        "en_name": "Sorbonne University"
     },
     {
         "rank": "73",
@@ -2527,7 +2599,8 @@
                 "value": "11,065"
             }
         ],
-        "description": ""
+        "description": "",
+        "en_name": "University of Glasgow"
     },
     {
         "rank": "74",
@@ -2562,9 +2635,10 @@
                 "value": "3,325"
             }
         ],
-        "description": "Korea University was the nation's first university funded and administered solely by Koreans.  The university was founded in 1905 by Lee Young-Ik, Treasurer of the Royal Household, whose idea and vision was that only by educating the younger generations could Korea secure its independence and grow and prosper as a nation.  For one-hundred years now, Korea University continues to maintain the spirit of its founder.  Today, the university strives to educate its students to become effective citizens, highly capable in their chosen fields, who will dedicate themselves to serving...\nRead more"
+        "description": "Korea University was the nation's first university funded and administered solely by Koreans.  The university was founded in 1905 by Lee Young-Ik, Treasurer of the Royal Household, whose idea and vision was that only by educating the younger generations could Korea secure its independence and grow and prosper as a nation.  For one-hundred years now, Korea University continues to maintain the spirit of its founder.  Today, the university strives to educate its students to become effective citizens, highly capable in their chosen fields, who will dedicate themselves to serving...\nRead more",
+        "en_name": "Korea University"
     },
-     {
+    {
         "rank": "=75",
         "name": "大阪大学",
         "website": "https://www.qschina.cn/universities/osaka-university",
@@ -2597,7 +2671,8 @@
                 "value": "2,268"
             }
         ],
-         "description": "Ranked 17th in the QS University Rankings: Asia 2016, Osaka University is the sixth oldest university in Japan, having originally been founded in 1724. The 63rd best university in the world according to the QS World University Rankings® 2018"
+        "description": "Ranked 17th in the QS University Rankings: Asia 2016, Osaka University is the sixth oldest university in Japan, having originally been founded in 1724. The 63rd best university in the world according to the QS World University Rankings® 2018",
+        "en_name": "Osaka University"
     },
     {
         "rank": "=75",
@@ -2632,7 +2707,8 @@
                 "value": "5,737"
             }
         ],
-        "description": "The University of Wisconsin-Madison is a public research university with a 378 hectare campus which contains a hospital, botanical gardens, an on-campus dairy farm and a music hall. The US university enjoys a very good academic reputation and a very high level of research, and was ranked among the top 100 universities in the world for employability in the Graduate Employability Rankings 2017, partly due to its impressive alumni outcomes. "
+        "description": "The University of Wisconsin-Madison is a public research university with a 378 hectare campus which contains a hospital, botanical gardens, an on-campus dairy farm and a music hall. The US university enjoys a very good academic reputation and a very high level of research, and was ranked among the top 100 universities in the world for employability in the Graduate Employability Rankings 2017, partly due to its impressive alumni outcomes. ",
+        "en_name": "University of Wisconsin-Madison"
     },
     {
         "rank": "77",
@@ -2667,7 +2743,8 @@
                 "value": "8,417"
             }
         ],
-        "description": "The University of Southampton is a world-leading university based on the south-west coast of England. It’s a founding member of the Russell Group, a network of leading research universities. Currently, it’s home to more than 6,500 international students from over 135 countries."
+        "description": "The University of Southampton is a world-leading university based on the south-west coast of England. It’s a founding member of the Russell Group, a network of leading research universities. Currently, it’s home to more than 6,500 international students from over 135 countries.",
+        "en_name": "University of Southampton"
     },
     {
         "rank": "78",
@@ -2702,7 +2779,8 @@
                 "value": "10,239"
             }
         ],
-        "description": "Established in 1755, Lomonosov Moscow State University (MSU) is the highest-ranked university in Russia, and is consistently ranked within the global top 150 of the QS World University Rankings®. One of Russia’s oldest and most respected institutions, MSU’s main building is the tallest educational building in the world. The university library system is one of the largest in Russia with around 9,000,000 books, 2,000,000 of which are in foreign languages. The university has more than 47,000 students enrolled and welcomes about 4,000 international students every year."
+        "description": "Established in 1755, Lomonosov Moscow State University (MSU) is the highest-ranked university in Russia, and is consistently ranked within the global top 150 of the QS World University Rankings®. One of Russia’s oldest and most respected institutions, MSU’s main building is the tallest educational building in the world. The university library system is one of the largest in Russia with around 9,000,000 books, 2,000,000 of which are in foreign languages. The university has more than 47,000 students enrolled and welcomes about 4,000 international students every year.",
+        "en_name": "Lomonosov Moscow State University"
     },
     {
         "rank": "=79",
@@ -2737,7 +2815,8 @@
                 "value": "4,135"
             }
         ],
-        "description": "The University of Copenhagen is a research-led university which provides research and education of the highest international standards.\n\nWith over 40,000 students and more than 9,000 employees, the University of Copenhagen (UCPH) is one of the largest institutions of research and education in the Nordic countries. According to QS World University Rankings® 2016, UCPH is the highest ranked university in the Nordic region and number 20 in Europe.\n\nThe University of Copenhagen is a member of globally leading international research alliances such as IARU (International Alliance of Research...\nRead more"
+        "description": "The University of Copenhagen is a research-led university which provides research and education of the highest international standards.\n\nWith over 40,000 students and more than 9,000 employees, the University of Copenhagen (UCPH) is one of the largest institutions of research and education in the Nordic countries. According to QS World University Rankings® 2016, UCPH is the highest ranked university in the Nordic region and number 20 in Europe.\n\nThe University of Copenhagen is a member of globally leading international research alliances such as IARU (International Alliance of Research...\nRead more",
+        "en_name": "University of Copenhagen"
     },
     {
         "rank": "=79",
@@ -2772,7 +2851,8 @@
                 "value": "4,274"
             }
         ],
-        "description": "Yonsei University, located in Seoul, South Korea, is consistently ranked within the global top 150 of the QS World University Rankings® and within the top 20 of the QS University Rankings: Asia. Yonsei is one of the three most prestigious universities in South Korea, collectively known as ‘SKY’. Yonsei has graduated some of the country’s most significant figures in politics, law, physics, engineering, literature, academics and the arts. The university was established in 1885, making it the oldest South Korean university, and it today has about 38,667 students enrolled, of which 4,514 are international."
+        "description": "Yonsei University, located in Seoul, South Korea, is consistently ranked within the global top 150 of the QS World University Rankings® and within the top 20 of the QS University Rankings: Asia. Yonsei is one of the three most prestigious universities in South Korea, collectively known as ‘SKY’. Yonsei has graduated some of the country’s most significant figures in politics, law, physics, engineering, literature, academics and the arts. The university was established in 1885, making it the oldest South Korean university, and it today has about 38,667 students enrolled, of which 4,514 are international.",
+        "en_name": "Yonsei University"
     },
     {
         "rank": "81",
@@ -2807,7 +2887,8 @@
                 "value": "87"
             }
         ],
-        "description": "Pohang University of Science And Technology (POSTECH) is a private South Korean university dedicated to engineering and the sciences."
+        "description": "Pohang University of Science And Technology (POSTECH) is a private South Korean university dedicated to engineering and the sciences.",
+        "en_name": "Pohang University of Science And Technology (POSTECH)"
     },
     {
         "rank": "=82",
@@ -2842,7 +2923,8 @@
                 "value": "6,174"
             }
         ],
-        "description": "The UK-based Durham University is a public research university situated in the North East of England, UK, founded in 1832. Durham is the joint 78th best university in the world according to the QS World University Rankings® 2018 and ranks among the top 10 universities in the world."
+        "description": "The UK-based Durham University is a public research university situated in the North East of England, UK, founded in 1832. Durham is the joint 78th best university in the world according to the QS World University Rankings® 2018 and ranks among the top 10 universities in the world.",
+        "en_name": "Durham University"
     },
     {
         "rank": "=82",
@@ -2877,7 +2959,8 @@
                 "value": "1,872"
             }
         ],
-        "description": "The first university in Japan to admit female and international students, Tohoku University continues to this day to recruit the world’s most talented scientists and researchers to pass the torch and carry out groundbreaking research. The 20th best university in Asia according to the QS University Rankings: Asia 2016, Tohoku University is one of the best Asian universities to dominate the global rankings. Indeed, it was ranked joint 76th in the world in the QS World University Rankings® 2018. "
+        "description": "The first university in Japan to admit female and international students, Tohoku University continues to this day to recruit the world’s most talented scientists and researchers to pass the torch and carry out groundbreaking research. The 20th best university in Asia according to the QS University Rankings: Asia 2016, Tohoku University is one of the best Asian universities to dominate the global rankings. Indeed, it was ranked joint 76th in the world in the QS World University Rankings® 2018. ",
+        "en_name": "Tohoku University"
     },
     {
         "rank": "=82",
@@ -2912,7 +2995,8 @@
                 "value": "9,987"
             }
         ],
-        "description": "Founded in 1867, Illinois is among the nation’s most prominent research institutions (FY17 research expenditures of $664 million). From the development of the modern web browser, to the discovery of the Archaea, to the transistor, to revolutionary photosynthesis advances, Illinois has a long-standing history of life-changing innovations. "
+        "description": "Founded in 1867, Illinois is among the nation’s most prominent research institutions (FY17 research expenditures of $664 million). From the development of the modern web browser, to the discovery of the Archaea, to the transistor, to revolutionary photosynthesis advances, Illinois has a long-standing history of life-changing innovations. ",
+        "en_name": "University of Illinois at Urbana-Champaign"
     },
     {
         "rank": "=85",
@@ -2947,7 +3031,8 @@
                 "value": "9,924"
             }
         ],
-        "description": "The University of Auckland is ranked within the top 100 of the QS World University Rankings, making it New Zealand’s highest ranked university. It is also the largest and most comprehensive. The University’s student population includes 7,000 international students representing over 120 countries."
+        "description": "The University of Auckland is ranked within the top 100 of the QS World University Rankings, making it New Zealand’s highest ranked university. It is also the largest and most comprehensive. The University’s student population includes 7,000 international students representing over 120 countries.",
+        "en_name": "The University of Auckland"
     },
     {
         "rank": "=85",
@@ -2982,9 +3067,10 @@
                 "value": "7,362"
             }
         ],
-        "description": "The University of Washington (UW) is one of the world’s preeminent public universities. Our impact on individuals, our region and the world is profound — whether we are launching young people into a boundless future or confronting the grand challenges of our time through undaunted research and scholarship. Ranked No. 10 in the world in Shanghai Jiao Tong University’s 2015 rankings, the UW educates more than 54,000 students annually. We turn ideas into impact and transform lives and our world.\n\nGlobal Innovation Exchange"
+        "description": "The University of Washington (UW) is one of the world’s preeminent public universities. Our impact on individuals, our region and the world is profound — whether we are launching young people into a boundless future or confronting the grand challenges of our time through undaunted research and scholarship. Ranked No. 10 in the world in Shanghai Jiao Tong University’s 2015 rankings, the UW educates more than 54,000 students annually. We turn ideas into impact and transform lives and our world.\n\nGlobal Innovation Exchange",
+        "en_name": "University of Washington"
     },
-     {
+    {
         "rank": "=86",
         "name": "巴黎第十一大学",
         "website": "https://www.qschina.cn/universities/universite-paris-saclay",
@@ -3017,8 +3103,9 @@
                 "value": "7,649"
             }
         ],
-         "description": ""
-     },
+        "description": "",
+        "en_name": "Université Paris-Saclay"
+    },
     {
         "rank": "87",
         "name": "隆德大学",
@@ -3052,9 +3139,10 @@
                 "value": "6,682"
             }
         ],
-        "description": "隆德大学是瑞典三分之一留学生的选择，数量第一。国际学生之所以欣赏隆德大学是因为该大学拥有 100 多个国际学位课程，交换和博士学位研究以及出色的排名表现。在 2020 年 QS 世界大学排名中，隆德大学排名全世界第 92 位。在 2019 年 QS 世界大学学科排名中，该大学在多个学科领域包括地理，发展研究，环境科学，护理，金融，社会政策与管理以及解剖学和生理学获得了较高的排名。"
+        "description": "隆德大学是瑞典三分之一留学生的选择，数量第一。国际学生之所以欣赏隆德大学是因为该大学拥有 100 多个国际学位课程，交换和博士学位研究以及出色的排名表现。在 2020 年 QS 世界大学排名中，隆德大学排名全世界第 92 位。在 2019 年 QS 世界大学学科排名中，该大学在多个学科领域包括地理，发展研究，环境科学，护理，金融，社会政策与管理以及解剖学和生理学获得了较高的排名。",
+        "en_name": "Lund University"
     },
-     {
+    {
         "rank": "88",
         "name": "乔治亚理工学院(Georgia Tech)",
         "website": "https://www.qschina.cn/universities/georgia-institute-technology",
@@ -3087,7 +3175,8 @@
                 "value": "5,675"
             }
         ],
-         "description": "Ranked 69th in the world in the QS World University Rankings® 2019, Georgia Institute of Technology is a science and technology research university based in Atlanta, Georgia."
+        "description": "Ranked 69th in the world in the QS World University Rankings® 2019, Georgia Institute of Technology is a science and technology research university based in Atlanta, Georgia.",
+        "en_name": "Georgia Institute of Technology"
     },
     {
         "rank": "89",
@@ -3122,7 +3211,8 @@
                 "value": "3,057"
             }
         ],
-        "description": "KTH Royal Institute of Technology is Sweden’s largest and most respected technical university. Since its founding in 1827, KTH has been at the centre of the technological advances in Sweden. KTH offers more than 60 master’s programmes taught in English and conducts world-class research in an array of technology and engineering fields. Its strong research reputation has reinforced the university’s position as one of the most prominent technical universities in Europe and a force to be reckoned with globally. "
+        "description": "KTH Royal Institute of Technology is Sweden’s largest and most respected technical university. Since its founding in 1827, KTH has been at the centre of the technological advances in Sweden. KTH offers more than 60 master’s programmes taught in English and conducts world-class research in an array of technology and engineering fields. Its strong research reputation has reinforced the university’s position as one of the most prominent technical universities in Europe and a force to be reckoned with globally. ",
+        "en_name": "KTH Royal Institute of Technology"
     },
     {
         "rank": "90",
@@ -3157,7 +3247,8 @@
                 "value": "10,457"
             }
         ],
-        "description": "Ranked 79th in the world in the QS World UniversityRankings® 2019, the University of Birmingham is a red brick university, a termused to describe a group of universities founded in industrial cities inEngland in the 19th century. It is also a Russell Group university which meansit belongs to a small set of research universities with a reputation foracademic excellence. "
+        "description": "Ranked 79th in the world in the QS World UniversityRankings® 2019, the University of Birmingham is a red brick university, a termused to describe a group of universities founded in industrial cities inEngland in the 19th century. It is also a Russell Group university which meansit belongs to a small set of research universities with a reputation foracademic excellence. ",
+        "en_name": "University of Birmingham"
     },
     {
         "rank": "91",
@@ -3192,7 +3283,8 @@
                 "value": "4,377"
             }
         ],
-        "description": "Founded in 1413, the University of St Andrews is Scotland’s oldest and highest-ranking university. "
+        "description": "Founded in 1413, the University of St Andrews is Scotland’s oldest and highest-ranking university. ",
+        "en_name": "University of St Andrews"
     },
     {
         "rank": "92",
@@ -3227,7 +3319,8 @@
                 "value": "11,584"
             }
         ],
-        "description": "We’re one of the UK’sleading universities, We're in the top 10 universities in the UK in theGuardian University Guide 2019, and ranked in the top 10 by the Times and TheSunday Times Good University Guide 2018. We’re first choice for more than34,000 students from over 150 different countries and located in the heart of athriving, friendly and multi-cultural city."
+        "description": "We’re one of the UK’sleading universities, We're in the top 10 universities in the UK in theGuardian University Guide 2019, and ranked in the top 10 by the Times and TheSunday Times Good University Guide 2018. We’re first choice for more than34,000 students from over 150 different countries and located in the heart of athriving, friendly and multi-cultural city.",
+        "en_name": "University of Leeds"
     },
     {
         "rank": "93",
@@ -3262,9 +3355,10 @@
                 "value": "9,017"
             }
         ],
-        "description": "With campuses in Perth and Albany, The University of Western Australia (UWA) is a dynamic and progressive community of lecturers, researchers, students and staff, all bound together by their hunger for learning, innovation and research.\n\nPerth campus"
+        "description": "With campuses in Perth and Albany, The University of Western Australia (UWA) is a dynamic and progressive community of lecturers, researchers, students and staff, all bound together by their hunger for learning, innovation and research.\n\nPerth campus",
+        "en_name": "The University of Western Australia"
     },
-     {
+    {
         "rank": "94",
         "name": "赖斯大学",
         "website": "https://www.qschina.cn/universities/rice-university",
@@ -3297,7 +3391,8 @@
                 "value": "2,278"
             }
         ],
-         "description": "Over 100 years, Rice University has been developing unconventional wisdom that transforms the lives of students and contributes to a better world. One of the top ranked research universities in the country, Rice has highly respected schools of Architecture, Business, Continuing Studies, Engineering, Humanities, Music, Natural Sciences and Social Sciences. Rice’s residential college system builds closeknit communities and lifelong friendships. "
+        "description": "Over 100 years, Rice University has been developing unconventional wisdom that transforms the lives of students and contributes to a better world. One of the top ranked research universities in the country, Rice has highly respected schools of Architecture, Business, Continuing Studies, Engineering, Humanities, Music, Natural Sciences and Social Sciences. Rice’s residential college system builds closeknit communities and lifelong friendships. ",
+        "en_name": "Rice University"
     },
     {
         "rank": "95",
@@ -3332,7 +3427,8 @@
                 "value": "11,090"
             }
         ],
-        "description": "Studying at the University of Sheffield gives you the best of all worlds. World-class teaching that's driven by the latest thinking. Practical experience to prepare you for the challenges ahead. And a supportive community that puts you first."
+        "description": "Studying at the University of Sheffield gives you the best of all worlds. World-class teaching that's driven by the latest thinking. Practical experience to prepare you for the challenges ahead. And a supportive community that puts you first.",
+        "en_name": "The University of Sheffield"
     },
     {
         "rank": "96",
@@ -3367,7 +3463,8 @@
                 "value": "6,943"
             }
         ],
-        "description": "Penn State, founded in 1855 as an agricultural college, admitted its first class in 1859. The Pennsylvania legislature designated Penn State as the Commonwealth's sole land-grant institution in 1863, which eventually broadened the University?s mission to include teaching, research, and public service in many academic disciplines. Penn State has awarded more than a half-million degrees, and has been Pennsylvania's largest source of baccalaureate degrees at least since the 1930s. "
+        "description": "Penn State, founded in 1855 as an agricultural college, admitted its first class in 1859. The Pennsylvania legislature designated Penn State as the Commonwealth's sole land-grant institution in 1863, which eventually broadened the University?s mission to include teaching, research, and public service in many academic disciplines. Penn State has awarded more than a half-million degrees, and has been Pennsylvania's largest source of baccalaureate degrees at least since the 1930s. ",
+        "en_name": "Pennsylvania State University"
     },
     {
         "rank": "97",
@@ -3402,7 +3499,8 @@
                 "value": "3,821"
             }
         ],
-        "description": "Global Leading University"
+        "description": "Global Leading University",
+        "en_name": "Sungkyunkwan University (SKKU)"
     },
     {
         "rank": "98",
@@ -3437,7 +3535,8 @@
                 "value": "1,019"
             }
         ],
-        "description": "Ranked within the top 100 of the QS World University Rankings, the University of Science and Technology in China (USTC) is a national research university located in Hefei, eastern China. USTC was established in 1958 in Beijing by the Chinese Academy of Sciences (CAS), in a strategic act by the Chinese government to help meet the country’s science and technology needs. The university moved to its current location in 1970 and today has around 15,500 students enrolled, of which almost half (7,400) are undergraduates. USTC is a member of the C9 League, a consortium of nine elite Chinese universities."
+        "description": "Ranked within the top 100 of the QS World University Rankings, the University of Science and Technology in China (USTC) is a national research university located in Hefei, eastern China. USTC was established in 1958 in Beijing by the Chinese Academy of Sciences (CAS), in a strategic act by the Chinese government to help meet the country’s science and technology needs. The university moved to its current location in 1970 and today has around 15,500 students enrolled, of which almost half (7,400) are undergraduates. USTC is a member of the C9 League, a consortium of nine elite Chinese universities.",
+        "en_name": "University of Science and Technology of China"
     },
     {
         "rank": "99",
@@ -3472,6 +3571,7 @@
                 "value": "2,495"
             }
         ],
-        "description": "DTU大学是一所自治大学，涵盖了大多数工程学科，并培养学士、硕士和博士级别的工程师。大学每年约有1,500名研究人员、6,500名学生、850名博士生和650名国际学生。DTU提供26个英语授课的硕士课程和600多个英语授课的其他课程。http://www.dtu.dk/English/education/MSc_Programs.aspx DTU在技术-自然科学领域具有很高的国际水准，在哥本哈根北部的Lyngby校园内有19个独立的院系和一些研究中心。涵盖生物技术、通信技术、管理、风能、空间技术和纳米技术等领域的活动。DTU拥有一个连贯的创新体系，从研究和教学到专利和许可、产业合作和科学园区活动，一应俱全。DTU的使命是在可持续发展的基础上为社会创造价值做出贡献：大学通过对硕士生和年轻新研究人员的教育，与私营企业合作开展研发活动，申请专利、建立新企业。"
+        "description": "DTU大学是一所自治大学，涵盖了大多数工程学科，并培养学士、硕士和博士级别的工程师。大学每年约有1,500名研究人员、6,500名学生、850名博士生和650名国际学生。DTU提供26个英语授课的硕士课程和600多个英语授课的其他课程。http://www.dtu.dk/English/education/MSc_Programs.aspx DTU在技术-自然科学领域具有很高的国际水准，在哥本哈根北部的Lyngby校园内有19个独立的院系和一些研究中心。涵盖生物技术、通信技术、管理、风能、空间技术和纳米技术等领域的活动。DTU拥有一个连贯的创新体系，从研究和教学到专利和许可、产业合作和科学园区活动，一应俱全。DTU的使命是在可持续发展的基础上为社会创造价值做出贡献：大学通过对硕士生和年轻新研究人员的教育，与私营企业合作开展研发活动，申请专利、建立新企业。",
+        "en_name": "Technical University of Denmark"
     }
 ]
